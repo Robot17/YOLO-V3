@@ -14,3 +14,7 @@
 - 运行run.py，对数据集进行预测输出，输出在dataset/my_test.txt中
 - 如果需要保存输出图片的话，可保存在output/文件夹
 - 预测新的图片
+## 环境说明
+- tensorflow-gpu==1.9.0
+- keras==2.2.0
+- 貌似只要不是tensorflow2以上就好
