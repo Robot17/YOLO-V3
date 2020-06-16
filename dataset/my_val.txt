@@ -1,0 +1,2000 @@
+dataset/cartoon_train/006001.jpg 72,80,141,157,0 8,70,69,159,0 17,13,41,50,0
+dataset/cartoon_train/006002.jpg 195,126,324,198,0 420,182,466,266,0
+dataset/cartoon_train/006003.jpg 140,281,253,362,0 378,238,489,343,0 518,277,576,359,0 589,172,655,299,0 491,310,514,365,0 590,303,613,355,0 373,277,406,354,0 231,221,299,311,0
+dataset/cartoon_train/006004.jpg 307,301,368,354,0
+dataset/cartoon_train/006005.jpg 257,229,454,456,0
+dataset/cartoon_train/006006.jpg 333,445,386,495,0
+dataset/cartoon_train/006007.jpg 447,121,551,196,0 53,190,153,286,0
+dataset/cartoon_train/006008.jpg 181,181,202,204,0 156,196,176,219,0 36,178,114,259,0
+dataset/cartoon_train/006009.jpg 16,274,62,317,0
+dataset/cartoon_train/006010.jpg 165,72,454,395,0
+dataset/cartoon_train/006011.jpg 194,354,211,380,0
+dataset/cartoon_train/006012.jpg 233,254,404,415,0 131,303,231,432,0
+dataset/cartoon_train/006013.jpg 394,103,462,172,0
+dataset/cartoon_train/006014.jpg 241,197,325,290,0
+dataset/cartoon_train/006015.jpg 642,194,784,368,0 421,226,551,365,0
+dataset/cartoon_train/006016.jpg 77,54,559,478,0
+dataset/cartoon_train/006017.jpg 283,306,360,410,0 541,106,641,250,0
+dataset/cartoon_train/006018.jpg 259,136,527,422,0
+dataset/cartoon_train/006019.jpg 125,93,219,213,0 331,220,428,345,0
+dataset/cartoon_train/006020.jpg 290,168,351,237,0 218,189,278,254,0
+dataset/cartoon_train/006021.jpg 197,207,414,419,0
+dataset/cartoon_train/006022.jpg 116,9,175,66,0 95,118,170,190,0 7,116,71,179,0
+dataset/cartoon_train/006023.jpg 538,172,623,254,0 222,138,318,227,0
+dataset/cartoon_train/006024.jpg 251,189,312,261,0 292,620,493,788,0
+dataset/cartoon_train/006025.jpg 337,123,385,176,0
+dataset/cartoon_train/006026.jpg 304,106,585,355,0
+dataset/cartoon_train/006027.jpg 174,99,282,230,0
+dataset/cartoon_train/006028.jpg 144,53,237,139,0
+dataset/cartoon_train/006029.jpg 222,128,258,165,0
+dataset/cartoon_train/006030.jpg 326,21,419,137,0
+dataset/cartoon_train/006031.jpg 278,171,610,486,0
+dataset/cartoon_train/006032.jpg 245,126,365,251,0
+dataset/cartoon_train/006033.jpg 191,168,401,348,0
+dataset/cartoon_train/006034.jpg 187,3,382,132,0
+dataset/cartoon_train/006035.jpg 211,139,315,242,0 465,163,708,470,0
+dataset/cartoon_train/006036.jpg 287,116,323,173,0
+dataset/cartoon_train/006037.jpg 375,82,527,261,0
+dataset/cartoon_train/006038.jpg 216,54,715,504,0
+dataset/cartoon_train/006039.jpg 164,77,375,320,0
+dataset/cartoon_train/006040.jpg 107,51,255,241,0 464,239,601,346,0
+dataset/cartoon_train/006041.jpg 129,92,241,223,0
+dataset/cartoon_train/006042.jpg 2678,719,2812,883,0 1017,724,1166,858,0
+dataset/cartoon_train/006043.jpg 419,130,462,194,0
+dataset/cartoon_train/006044.jpg 250,96,530,286,0
+dataset/cartoon_train/006045.jpg 543,208,591,319,0 64,175,283,319,0
+dataset/cartoon_train/006046.jpg 265,104,432,239,0 663,56,684,95,0
+dataset/cartoon_train/006047.jpg 191,320,243,407,0
+dataset/cartoon_train/006048.jpg 280,134,423,296,0
+dataset/cartoon_train/006049.jpg 333,201,362,237,0 203,193,255,264,0
+dataset/cartoon_train/006050.jpg 141,104,171,131,0 27,90,77,151,0 22,191,41,208,0
+dataset/cartoon_train/006051.jpg 416,170,556,298,0
+dataset/cartoon_train/006052.jpg 320,183,434,287,0
+dataset/cartoon_train/006053.jpg 361,47,640,279,0
+dataset/cartoon_train/006054.jpg 82,244,185,317,0 223,258,312,315,0 354,252,451,319,0 485,238,578,313,0 559,376,587,402,0 590,378,619,402,0
+dataset/cartoon_train/006055.jpg 294,270,382,364,0
+dataset/cartoon_train/006056.jpg 502,229,649,353,0 334,199,495,380,0
+dataset/cartoon_train/006057.jpg 147,182,260,242,0 281,188,401,250,0 444,230,534,277,0
+dataset/cartoon_train/006058.jpg 785,74,1596,934,0
+dataset/cartoon_train/006059.jpg 211,202,334,393,0
+dataset/cartoon_train/006060.jpg 416,273,436,299,0 339,180,361,215,0
+dataset/cartoon_train/006061.jpg 350,129,446,217,0
+dataset/cartoon_train/006062.jpg 345,71,626,470,0
+dataset/cartoon_train/006063.jpg 371,156,408,194,0 244,66,282,100,0 89,130,132,161,0 220,195,287,244,0
+dataset/cartoon_train/006064.jpg 197,163,310,310,0 477,95,569,288,0
+dataset/cartoon_train/006065.jpg 36,127,53,156,0 1157,729,1179,762,0
+dataset/cartoon_train/006066.jpg 253,152,472,350,0
+dataset/cartoon_train/006067.jpg 347,160,450,236,0 173,240,237,310,0
+dataset/cartoon_train/006068.jpg 270,197,347,267,0
+dataset/cartoon_train/006069.jpg 417,132,440,158,0 652,151,683,188,0
+dataset/cartoon_train/006070.jpg 532,278,572,317,0 578,84,615,129,0
+dataset/cartoon_train/006071.jpg 2,346,108,409,0
+dataset/cartoon_train/006072.jpg 78,131,184,214,0 17,212,72,269,0
+dataset/cartoon_train/006073.jpg 253,99,364,216,0
+dataset/cartoon_train/006074.jpg 444,137,550,251,0 364,229,457,327,0 137,205,214,309,0
+dataset/cartoon_train/006075.jpg 324,191,510,343,0 58,261,146,416,0
+dataset/cartoon_train/006076.jpg 191,170,239,202,0 244,220,278,245,0 286,198,335,224,0 93,201,133,232,0 134,198,184,229,0
+dataset/cartoon_train/006077.jpg 149,28,390,282,0
+dataset/cartoon_train/006078.jpg 426,65,532,172,0
+dataset/cartoon_train/006079.jpg 85,265,257,451,0
+dataset/cartoon_train/006080.jpg 282,141,362,237,0
+dataset/cartoon_train/006081.jpg 317,164,366,248,0
+dataset/cartoon_train/006082.jpg 440,224,674,449,0
+dataset/cartoon_train/006083.jpg 188,155,291,251,0
+dataset/cartoon_train/006084.jpg 194,186,462,418,0
+dataset/cartoon_train/006085.jpg 247,101,522,405,0
+dataset/cartoon_train/006086.jpg 479,213,703,392,0
+dataset/cartoon_train/006087.jpg 373,162,640,445,0
+dataset/cartoon_train/006088.jpg 136,106,237,195,0
+dataset/cartoon_train/006089.jpg 482,241,547,391,0 246,254,388,412,0
+dataset/cartoon_train/006090.jpg 137,6,649,479,0
+dataset/cartoon_train/006091.jpg 314,33,473,206,0
+dataset/cartoon_train/006092.jpg 253,164,477,383,0
+dataset/cartoon_train/006093.jpg 383,296,402,324,0 177,107,396,373,0
+dataset/cartoon_train/006094.jpg 513,286,530,306,0
+dataset/cartoon_train/006095.jpg 307,97,424,215,0
+dataset/cartoon_train/006096.jpg 685,215,748,269,0 501,211,571,265,0 358,217,438,282,0 234,208,306,273,0 113,206,180,272,0
+dataset/cartoon_train/006097.jpg 370,164,507,288,0
+dataset/cartoon_train/006098.jpg 79,1,230,110,0 635,73,748,167,0 331,210,397,276,0 476,182,552,247,0
+dataset/cartoon_train/006099.jpg 571,111,656,226,0
+dataset/cartoon_train/006100.jpg 111,96,194,161,0
+dataset/cartoon_train/006101.jpg 210,66,544,364,0
+dataset/cartoon_train/006102.jpg 255,99,351,235,0
+dataset/cartoon_train/006103.jpg 256,99,338,171,0
+dataset/cartoon_train/006104.jpg 174,102,413,321,0
+dataset/cartoon_train/006105.jpg 588,99,737,239,0
+dataset/cartoon_train/006106.jpg 83,4,154,68,0
+dataset/cartoon_train/006107.jpg 103,328,156,392,0 175,299,218,372,0 268,243,371,344,0 445,281,515,370,0
+dataset/cartoon_train/006108.jpg 186,120,227,155,0 367,247,426,293,0
+dataset/cartoon_train/006109.jpg 289,38,623,414,0
+dataset/cartoon_train/006110.jpg 220,84,290,181,0
+dataset/cartoon_train/006111.jpg 231,146,423,363,0
+dataset/cartoon_train/006112.jpg 102,57,157,150,0 296,43,351,133,0 39,235,110,307,0 156,162,203,237,0 298,187,362,310,0
+dataset/cartoon_train/006113.jpg 312,131,437,252,0
+dataset/cartoon_train/006114.jpg 234,232,291,298,0
+dataset/cartoon_train/006115.jpg 156,33,242,166,0
+dataset/cartoon_train/006116.jpg 169,26,283,141,0 227,147,296,200,0
+dataset/cartoon_train/006117.jpg 284,172,528,326,0 667,225,739,305,0
+dataset/cartoon_train/006118.jpg 452,12,482,39,0 416,19,441,36,0 373,15,401,39,0 332,12,364,40,0 292,16,325,41,0 255,15,285,38,0 215,16,246,38,0 453,52,480,72,0 414,48,441,73,0 377,50,399,71,0 336,49,362,73,0 292,46,321,71,0 257,46,281,70,0 215,50,244,70,0 413,80,441,105,0 373,82,398,100,0 333,83,356,103,0 295,81,322,106,0 252,82,278,106,0 215,81,246,104,0 178,82,201,104,0 455,115,480,137,0 454,178,480,199,0 451,211,484,236,0 455,242,479,266,0 374,214,402,237,0 333,176,361,202,0 255,181,283,201,0 216,209,242,235,0 136,179,160,197,0 136,210,163,234,0 134,242,163,266,0 177,276,203,299,0 215,275,242,298,0 253,277,282,299,0 293,276,323,301,0 295,245,321,267,0
+dataset/cartoon_train/006119.jpg 319,88,467,200,0
+dataset/cartoon_train/006120.jpg 323,38,728,325,0
+dataset/cartoon_train/006121.jpg 217,171,325,302,0
+dataset/cartoon_train/006122.jpg 480,59,538,99,0
+dataset/cartoon_train/006123.jpg 275,0,452,200,0
+dataset/cartoon_train/006124.jpg 348,271,448,350,0 627,406,750,474,0 713,332,821,428,0 548,188,589,216,0 605,224,633,250,0
+dataset/cartoon_train/006125.jpg 390,34,600,327,0
+dataset/cartoon_train/006126.jpg 473,128,544,208,0
+dataset/cartoon_train/006127.jpg 446,168,706,410,0
+dataset/cartoon_train/006128.jpg 650,247,683,267,0 412,296,456,315,0 39,161,80,179,0
+dataset/cartoon_train/006129.jpg 334,117,534,312,0
+dataset/cartoon_train/006130.jpg 551,236,608,311,0 571,324,637,416,0
+dataset/cartoon_train/006131.jpg 375,258,478,360,0 454,34,514,97,0 691,24,752,74,0
+dataset/cartoon_train/006132.jpg 600,0,896,195,0
+dataset/cartoon_train/006133.jpg 487,123,594,344,0 312,257,444,386,0 153,248,265,390,0 2,281,51,389,0 752,169,846,380,0
+dataset/cartoon_train/006134.jpg 176,116,265,202,0 404,198,461,259,0
+dataset/cartoon_train/006135.jpg 275,150,592,370,0 2,162,177,328,0 80,109,114,134,0
+dataset/cartoon_train/006136.jpg 607,185,700,345,0 100,195,252,338,0
+dataset/cartoon_train/006137.jpg 479,109,525,153,0 415,136,461,190,0 292,184,350,254,0 119,147,176,218,0
+dataset/cartoon_train/006138.jpg 857,157,885,203,0 576,134,632,243,0 177,144,262,236,0
+dataset/cartoon_train/006139.jpg 342,115,425,186,0
+dataset/cartoon_train/006140.jpg 711,332,754,371,0
+dataset/cartoon_train/006141.jpg 217,100,268,175,0 404,64,491,164,0
+dataset/cartoon_train/006142.jpg 349,115,425,227,0
+dataset/cartoon_train/006143.jpg 324,1,790,476,0
+dataset/cartoon_train/006144.jpg 430,150,577,293,0
+dataset/cartoon_train/006145.jpg 215,75,255,125,0 98,147,159,197,0
+dataset/cartoon_train/006146.jpg 313,83,433,210,0
+dataset/cartoon_train/006147.jpg 184,83,353,250,0
+dataset/cartoon_train/006148.jpg 127,82,246,191,0
+dataset/cartoon_train/006149.jpg 417,126,444,151,0
+dataset/cartoon_train/006150.jpg 108,67,168,139,0 128,268,153,295,0 177,271,202,298,0 68,270,99,303,0
+dataset/cartoon_train/006151.jpg 421,51,564,267,0
+dataset/cartoon_train/006152.jpg 221,328,246,354,0 210,251,237,282,0 212,368,231,383,0 148,221,172,244,0 20,208,62,244,0 70,29,96,53,0 54,376,82,407,0 38,345,60,375,0 2,369,22,391,0 12,417,33,444,0
+dataset/cartoon_train/006153.jpg 49,403,181,480,0 334,368,552,480,0
+dataset/cartoon_train/006154.jpg 47,45,116,125,0
+dataset/cartoon_train/006155.jpg 290,24,323,79,0
+dataset/cartoon_train/006156.jpg 382,165,487,321,0 133,255,270,424,0
+dataset/cartoon_train/006157.jpg 475,69,575,237,0 181,236,277,317,0 348,379,398,436,0
+dataset/cartoon_train/006158.jpg 159,137,349,342,0
+dataset/cartoon_train/006159.jpg 119,324,151,366,0 159,277,238,361,0 691,246,773,325,0
+dataset/cartoon_train/006160.jpg 21,236,103,281,0 169,314,228,370,0 252,310,289,348,0 495,265,580,319,0
+dataset/cartoon_train/006161.jpg 460,157,534,317,0
+dataset/cartoon_train/006162.jpg 116,137,140,159,0 90,157,103,177,0 589,297,618,328,0
+dataset/cartoon_train/006163.jpg 296,107,326,139,0 213,121,243,151,0 155,177,178,213,0
+dataset/cartoon_train/006164.jpg 372,263,424,318,0 479,256,530,320,0
+dataset/cartoon_train/006165.jpg 107,25,179,99,0
+dataset/cartoon_train/006166.jpg 198,59,497,336,0
+dataset/cartoon_train/006167.jpg 437,286,464,317,0 316,318,352,363,0 151,259,192,302,0
+dataset/cartoon_train/006168.jpg 333,78,462,265,0
+dataset/cartoon_train/006169.jpg 23,87,167,267,0
+dataset/cartoon_train/006170.jpg 235,177,342,275,0 95,127,190,204,0
+dataset/cartoon_train/006171.jpg 641,27,690,89,0
+dataset/cartoon_train/006172.jpg 437,205,569,369,0
+dataset/cartoon_train/006173.jpg 227,118,367,207,0
+dataset/cartoon_train/006174.jpg 296,260,327,293,0 0,313,284,480,0
+dataset/cartoon_train/006175.jpg 373,0,628,203,0
+dataset/cartoon_train/006176.jpg 488,95,619,280,0
+dataset/cartoon_train/006177.jpg 479,159,581,265,0 230,169,434,470,0 99,69,220,180,0 2,219,107,360,0
+dataset/cartoon_train/006178.jpg 261,68,279,95,0 198,86,218,115,0
+dataset/cartoon_train/006179.jpg 231,265,474,455,0
+dataset/cartoon_train/006180.jpg 202,188,360,314,0
+dataset/cartoon_train/006181.jpg 248,349,330,412,0 355,195,416,232,0 587,289,615,322,0 223,234,258,262,0 483,140,504,156,0
+dataset/cartoon_train/006182.jpg 374,391,528,479,0
+dataset/cartoon_train/006183.jpg 431,140,533,249,0 141,162,233,244,0 278,75,391,139,0
+dataset/cartoon_train/006184.jpg 190,53,351,245,0 719,235,846,391,0
+dataset/cartoon_train/006185.jpg 458,156,583,265,0
+dataset/cartoon_train/006186.jpg 341,70,622,306,0 124,44,261,154,0
+dataset/cartoon_train/006187.jpg 451,98,580,311,0
+dataset/cartoon_train/006188.jpg 297,110,466,233,0 518,70,629,258,0 177,278,276,370,0
+dataset/cartoon_train/006189.jpg 385,63,467,158,0
+dataset/cartoon_train/006190.jpg 490,127,564,206,0
+dataset/cartoon_train/006191.jpg 317,215,365,263,0 327,91,445,206,0
+dataset/cartoon_train/006192.jpg 278,174,494,345,0
+dataset/cartoon_train/006193.jpg 364,167,525,320,0
+dataset/cartoon_train/006194.jpg 639,137,697,270,0 460,157,546,292,0 205,118,261,251,0
+dataset/cartoon_train/006195.jpg 278,101,365,190,0 312,487,406,538,0 116,199,169,265,0
+dataset/cartoon_train/006196.jpg 309,144,500,444,0
+dataset/cartoon_train/006197.jpg 407,44,846,477,0
+dataset/cartoon_train/006198.jpg 97,61,151,119,0
+dataset/cartoon_train/006199.jpg 126,168,147,187,0 107,154,127,178,0 195,212,218,230,0
+dataset/cartoon_train/006200.jpg 344,36,412,82,0 171,161,469,393,0
+dataset/cartoon_train/006201.jpg 259,229,507,454,0
+dataset/cartoon_train/006202.jpg 498,167,571,280,0 205,247,331,366,0
+dataset/cartoon_train/006203.jpg 68,287,91,332,0
+dataset/cartoon_train/006204.jpg 431,66,472,103,0
+dataset/cartoon_train/006205.jpg 162,188,256,259,0
+dataset/cartoon_train/006206.jpg 282,111,452,348,0
+dataset/cartoon_train/006207.jpg 586,310,628,358,0
+dataset/cartoon_train/006208.jpg 147,218,286,364,0
+dataset/cartoon_train/006209.jpg 411,176,564,332,0
+dataset/cartoon_train/006210.jpg 164,156,329,288,0
+dataset/cartoon_train/006211.jpg 330,83,441,185,0
+dataset/cartoon_train/006212.jpg 539,186,558,210,0
+dataset/cartoon_train/006213.jpg 282,175,532,415,0
+dataset/cartoon_train/006214.jpg 157,14,616,378,0
+dataset/cartoon_train/006215.jpg 539,252,584,286,0
+dataset/cartoon_train/006216.jpg 792,103,816,128,0 541,200,568,222,0 415,730,447,757,0
+dataset/cartoon_train/006217.jpg 199,141,339,282,0
+dataset/cartoon_train/006218.jpg 322,10,651,479,0
+dataset/cartoon_train/006219.jpg 82,125,111,144,0
+dataset/cartoon_train/006220.jpg 181,236,293,371,0
+dataset/cartoon_train/006221.jpg 311,124,345,177,0
+dataset/cartoon_train/006222.jpg 389,134,499,245,0
+dataset/cartoon_train/006223.jpg 490,361,513,379,0
+dataset/cartoon_train/006224.jpg 34,30,851,502,0
+dataset/cartoon_train/006225.jpg 203,129,516,421,0
+dataset/cartoon_train/006226.jpg 340,185,477,311,0
+dataset/cartoon_train/006227.jpg 62,1,217,144,0
+dataset/cartoon_train/006228.jpg 553,160,724,375,0
+dataset/cartoon_train/006229.jpg 325,260,432,375,0 322,143,430,271,0 437,527,486,607,0 385,538,449,608,0
+dataset/cartoon_train/006230.jpg 166,26,277,122,0
+dataset/cartoon_train/006231.jpg 409,118,504,220,0
+dataset/cartoon_train/006232.jpg 545,123,625,233,0
+dataset/cartoon_train/006233.jpg 210,21,364,246,0 364,266,391,287,0
+dataset/cartoon_train/006234.jpg 708,49,816,259,0
+dataset/cartoon_train/006235.jpg 489,80,720,368,0 175,113,391,307,0
+dataset/cartoon_train/006236.jpg 334,198,441,285,0
+dataset/cartoon_train/006237.jpg 383,116,540,269,0
+dataset/cartoon_train/006238.jpg 348,15,489,152,0
+dataset/cartoon_train/006239.jpg 373,127,417,169,0
+dataset/cartoon_train/006240.jpg 687,213,755,294,0 4,42,840,368,0
+dataset/cartoon_train/006241.jpg 343,67,496,409,0
+dataset/cartoon_train/006242.jpg 290,137,497,369,0
+dataset/cartoon_train/006243.jpg 509,150,765,425,0
+dataset/cartoon_train/006244.jpg 237,149,259,169,0 130,108,157,136,0 28,45,52,95,0 161,327,190,366,0 35,261,52,280,0
+dataset/cartoon_train/006245.jpg 477,147,645,353,0
+dataset/cartoon_train/006246.jpg 185,226,259,306,0
+dataset/cartoon_train/006247.jpg 292,295,344,345,0
+dataset/cartoon_train/006248.jpg 232,120,267,173,0
+dataset/cartoon_train/006249.jpg 136,215,162,265,0 310,191,444,391,0
+dataset/cartoon_train/006250.jpg 435,103,493,166,0
+dataset/cartoon_train/006251.jpg 221,167,403,353,0
+dataset/cartoon_train/006252.jpg 669,596,1284,1133,0
+dataset/cartoon_train/006253.jpg 396,225,460,293,0
+dataset/cartoon_train/006254.jpg 672,364,784,474,0 502,316,597,420,0 236,110,283,272,0
+dataset/cartoon_train/006255.jpg 668,136,715,215,0
+dataset/cartoon_train/006256.jpg 2,5,457,500,0
+dataset/cartoon_train/006257.jpg 597,464,656,500,0
+dataset/cartoon_train/006258.jpg 148,173,179,194,0
+dataset/cartoon_train/006259.jpg 188,152,350,364,0
+dataset/cartoon_train/006260.jpg 116,22,216,113,0
+dataset/cartoon_train/006261.jpg 368,83,521,216,0
+dataset/cartoon_train/006262.jpg 605,105,712,307,0 181,148,332,306,0
+dataset/cartoon_train/006263.jpg 169,123,285,269,0
+dataset/cartoon_train/006264.jpg 334,71,446,299,0
+dataset/cartoon_train/006265.jpg 197,63,342,229,0 531,215,696,381,0
+dataset/cartoon_train/006266.jpg 172,78,195,102,0
+dataset/cartoon_train/006267.jpg 535,140,669,256,0 200,82,258,227,0
+dataset/cartoon_train/006268.jpg 281,200,300,242,0 226,183,261,218,0 71,162,103,192,0
+dataset/cartoon_train/006269.jpg 213,66,339,199,0
+dataset/cartoon_train/006270.jpg 333,96,373,142,0
+dataset/cartoon_train/006271.jpg 275,127,370,226,0
+dataset/cartoon_train/006272.jpg 625,236,668,288,0 318,233,371,275,0 484,196,519,225,0 120,217,162,249,0 99,336,176,408,0
+dataset/cartoon_train/006273.jpg 336,125,458,285,0 149,216,348,410,0
+dataset/cartoon_train/006274.jpg 309,2,581,317,0
+dataset/cartoon_train/006275.jpg 400,207,426,240,0
+dataset/cartoon_train/006276.jpg 330,42,473,182,0
+dataset/cartoon_train/006277.jpg 398,52,569,436,0
+dataset/cartoon_train/006278.jpg 336,77,486,279,0
+dataset/cartoon_train/006279.jpg 408,123,570,264,0
+dataset/cartoon_train/006280.jpg 208,264,234,286,0 52,274,69,292,0 71,261,84,282,0
+dataset/cartoon_train/006281.jpg 717,223,876,418,0 600,246,644,308,0
+dataset/cartoon_train/006282.jpg 373,92,496,246,0 194,88,304,221,0 25,68,126,188,0
+dataset/cartoon_train/006283.jpg 88,10,248,204,0
+dataset/cartoon_train/006284.jpg 379,110,586,292,0
+dataset/cartoon_train/006285.jpg 213,258,268,353,0
+dataset/cartoon_train/006286.jpg 239,87,346,209,0 498,269,577,366,0
+dataset/cartoon_train/006287.jpg 528,6,605,48,0 539,351,611,423,0 352,278,470,355,0 247,303,284,356,0 142,131,238,227,0
+dataset/cartoon_train/006288.jpg 176,278,418,404,0
+dataset/cartoon_train/006289.jpg 133,68,210,198,0 233,23,267,59,0
+dataset/cartoon_train/006290.jpg 256,80,430,290,0
+dataset/cartoon_train/006291.jpg 167,101,299,216,0
+dataset/cartoon_train/006292.jpg 202,112,414,273,0 580,92,715,302,0
+dataset/cartoon_train/006293.jpg 142,65,359,263,0
+dataset/cartoon_train/006294.jpg 430,240,542,388,0
+dataset/cartoon_train/006295.jpg 147,68,375,298,0
+dataset/cartoon_train/006296.jpg 279,119,543,379,0
+dataset/cartoon_train/006297.jpg 132,121,216,196,0 366,185,427,238,0
+dataset/cartoon_train/006298.jpg 206,129,390,331,0
+dataset/cartoon_train/006299.jpg 494,165,581,271,0 122,114,205,234,0
+dataset/cartoon_train/006300.jpg 303,91,329,119,0
+dataset/cartoon_train/006301.jpg 318,82,580,279,0
+dataset/cartoon_train/006302.jpg 204,125,277,219,0
+dataset/cartoon_train/006303.jpg 626,208,692,289,0
+dataset/cartoon_train/006304.jpg 591,282,638,374,0 538,216,606,308,0 523,256,556,318,0 434,221,493,301,0 353,249,415,340,0 261,234,346,353,0 196,235,258,357,0 65,265,144,378,0 7,268,65,349,0
+dataset/cartoon_train/006305.jpg 256,220,426,394,0 517,4,723,291,0
+dataset/cartoon_train/006306.jpg 116,44,340,271,0
+dataset/cartoon_train/006307.jpg 455,86,534,173,0 661,91,723,146,0
+dataset/cartoon_train/006308.jpg 253,216,432,418,0
+dataset/cartoon_train/006309.jpg 350,54,519,281,0
+dataset/cartoon_train/006310.jpg 380,293,504,388,0
+dataset/cartoon_train/006311.jpg 535,124,675,279,0 137,266,280,433,0
+dataset/cartoon_train/006312.jpg 183,188,351,299,0 422,303,541,409,0 381,378,412,417,0
+dataset/cartoon_train/006313.jpg 234,163,414,337,0
+dataset/cartoon_train/006314.jpg 195,150,330,282,0
+dataset/cartoon_train/006315.jpg 227,110,304,184,0 233,65,268,95,0
+dataset/cartoon_train/006316.jpg 381,99,500,227,0
+dataset/cartoon_train/006317.jpg 309,436,355,464,0
+dataset/cartoon_train/006318.jpg 279,110,349,191,0 174,96,260,193,0
+dataset/cartoon_train/006319.jpg 0,161,139,349,0
+dataset/cartoon_train/006320.jpg 351,111,437,211,0
+dataset/cartoon_train/006321.jpg 175,20,511,489,0
+dataset/cartoon_train/006322.jpg 410,69,527,176,0
+dataset/cartoon_train/006323.jpg 300,298,408,398,0 186,201,315,333,0
+dataset/cartoon_train/006324.jpg 603,269,640,307,0
+dataset/cartoon_train/006325.jpg 190,0,441,164,0 286,151,532,361,0
+dataset/cartoon_train/006326.jpg 315,141,441,255,0
+dataset/cartoon_train/006327.jpg 265,111,381,174,0
+dataset/cartoon_train/006328.jpg 223,75,590,375,0 9,314,207,436,0
+dataset/cartoon_train/006329.jpg 253,140,626,496,0
+dataset/cartoon_train/006330.jpg 109,79,156,150,0 193,9,247,82,0 549,170,586,244,0
+dataset/cartoon_train/006331.jpg 203,15,327,137,0 341,24,462,121,0
+dataset/cartoon_train/006332.jpg 211,261,372,467,0 175,141,404,383,0 313,47,555,333,0 496,35,729,285,0 22,154,216,386,0
+dataset/cartoon_train/006333.jpg 479,342,508,374,0
+dataset/cartoon_train/006334.jpg 380,98,501,229,0
+dataset/cartoon_train/006335.jpg 243,57,291,110,0
+dataset/cartoon_train/006336.jpg 206,92,420,363,0 498,244,561,333,0
+dataset/cartoon_train/006337.jpg 143,111,219,192,0 65,161,152,220,0
+dataset/cartoon_train/006338.jpg 368,184,639,462,0
+dataset/cartoon_train/006339.jpg 1082,233,1337,481,0 1505,82,1586,199,0 371,233,666,562,0
+dataset/cartoon_train/006340.jpg 634,156,752,285,0 128,199,254,308,0
+dataset/cartoon_train/006341.jpg 352,144,463,293,0
+dataset/cartoon_train/006342.jpg 309,132,459,260,0 149,275,276,415,0
+dataset/cartoon_train/006343.jpg 524,151,697,310,0
+dataset/cartoon_train/006344.jpg 336,144,407,248,0
+dataset/cartoon_train/006345.jpg 134,140,188,181,0 251,174,289,212,0 178,304,211,341,0 444,283,491,334,0 364,155,393,186,0 405,151,431,183,0 444,153,472,188,0
+dataset/cartoon_train/006346.jpg 310,151,367,268,0 571,225,648,312,0
+dataset/cartoon_train/006347.jpg 183,199,284,297,0
+dataset/cartoon_train/006348.jpg 2,60,141,201,0
+dataset/cartoon_train/006349.jpg 80,201,242,337,0 402,137,541,368,0
+dataset/cartoon_train/006350.jpg 256,64,716,437,0
+dataset/cartoon_train/006351.jpg 324,91,543,386,0
+dataset/cartoon_train/006352.jpg 83,223,237,353,0
+dataset/cartoon_train/006353.jpg 500,334,554,396,0 236,189,319,274,0
+dataset/cartoon_train/006354.jpg 544,115,585,179,0 199,139,222,158,0 169,174,190,200,0 160,200,177,217,0 136,218,158,236,0 677,103,692,122,0 416,295,447,345,0
+dataset/cartoon_train/006355.jpg 535,127,555,149,0 436,133,458,155,0 149,13,166,31,0
+dataset/cartoon_train/006356.jpg 528,347,680,479,0 237,101,402,270,0
+dataset/cartoon_train/006357.jpg 535,133,648,316,0 205,223,312,388,0
+dataset/cartoon_train/006358.jpg 814,206,841,237,0 638,273,656,299,0
+dataset/cartoon_train/006359.jpg 213,130,442,310,0 3,295,129,424,0
+dataset/cartoon_train/006360.jpg 104,35,428,335,0
+dataset/cartoon_train/006361.jpg 99,236,341,452,0
+dataset/cartoon_train/006362.jpg 224,125,306,203,0 371,122,420,166,0 506,103,601,199,0
+dataset/cartoon_train/006363.jpg 214,175,444,341,0
+dataset/cartoon_train/006364.jpg 343,215,431,279,0 146,213,239,268,0
+dataset/cartoon_train/006365.jpg 150,132,375,386,0
+dataset/cartoon_train/006366.jpg 205,247,244,291,0 218,162,247,191,0 214,11,277,117,0 198,357,214,377,0 128,310,153,338,0 79,327,106,354,0 55,238,100,296,0 47,158,83,200,0
+dataset/cartoon_train/006367.jpg 160,206,240,323,0
+dataset/cartoon_train/006368.jpg 67,151,228,238,0
+dataset/cartoon_train/006369.jpg 781,214,914,432,0
+dataset/cartoon_train/006370.jpg 391,87,466,172,0
+dataset/cartoon_train/006371.jpg 334,176,365,207,0
+dataset/cartoon_train/006372.jpg 445,159,514,235,0 314,219,389,299,0 84,140,159,232,0
+dataset/cartoon_train/006373.jpg 157,15,584,424,0
+dataset/cartoon_train/006374.jpg 298,145,405,246,0
+dataset/cartoon_train/006375.jpg 508,106,733,343,0 77,227,276,484,0
+dataset/cartoon_train/006376.jpg 217,435,340,478,0 0,175,28,244,0 340,104,390,197,0 410,217,500,286,0
+dataset/cartoon_train/006377.jpg 121,3,500,457,0
+dataset/cartoon_train/006378.jpg 282,147,354,221,0
+dataset/cartoon_train/006379.jpg 498,69,538,109,0 386,57,424,92,0 308,49,339,80,0
+dataset/cartoon_train/006380.jpg 304,179,600,434,0
+dataset/cartoon_train/006381.jpg 308,103,356,179,0
+dataset/cartoon_train/006382.jpg 317,98,394,171,0
+dataset/cartoon_train/006383.jpg 231,170,387,371,0
+dataset/cartoon_train/006384.jpg 92,122,157,192,0 175,87,203,112,0 59,36,121,109,0
+dataset/cartoon_train/006385.jpg 582,287,655,351,0
+dataset/cartoon_train/006386.jpg 84,44,100,68,0 63,28,78,54,0
+dataset/cartoon_train/006387.jpg 69,204,239,354,0
+dataset/cartoon_train/006388.jpg 663,139,747,240,0
+dataset/cartoon_train/006389.jpg 435,76,506,169,0
+dataset/cartoon_train/006390.jpg 509,115,566,216,0
+dataset/cartoon_train/006391.jpg 451,207,534,298,0
+dataset/cartoon_train/006392.jpg 6,103,22,120,0 34,93,110,162,0
+dataset/cartoon_train/006393.jpg 137,284,156,301,0
+dataset/cartoon_train/006394.jpg 179,52,277,165,0
+dataset/cartoon_train/006395.jpg 414,283,483,343,0
+dataset/cartoon_train/006396.jpg 405,215,452,256,0 287,233,343,282,0
+dataset/cartoon_train/006397.jpg 395,112,453,174,0
+dataset/cartoon_train/006398.jpg 292,103,360,172,0
+dataset/cartoon_train/006399.jpg 271,200,442,374,0
+dataset/cartoon_train/006400.jpg 277,146,329,229,0
+dataset/cartoon_train/006401.jpg 226,85,366,300,0
+dataset/cartoon_train/006402.jpg 262,183,426,332,0
+dataset/cartoon_train/006403.jpg 307,196,519,378,0
+dataset/cartoon_train/006404.jpg 708,301,791,351,0
+dataset/cartoon_train/006405.jpg 347,48,562,283,0
+dataset/cartoon_train/006406.jpg 547,49,673,186,0
+dataset/cartoon_train/006407.jpg 420,55,513,161,0
+dataset/cartoon_train/006408.jpg 498,141,542,175,0 7,279,276,480,0
+dataset/cartoon_train/006409.jpg 432,121,699,395,0
+dataset/cartoon_train/006410.jpg 219,169,417,381,0
+dataset/cartoon_train/006411.jpg 228,77,377,235,0
+dataset/cartoon_train/006412.jpg 314,122,410,194,0
+dataset/cartoon_train/006413.jpg 31,368,48,392,0
+dataset/cartoon_train/006414.jpg 345,204,594,487,0
+dataset/cartoon_train/006415.jpg 83,210,184,281,0 154,39,186,71,0 127,75,156,102,0 69,70,113,108,0 16,26,43,51,0 10,145,39,169,0
+dataset/cartoon_train/006416.jpg 364,79,524,254,0
+dataset/cartoon_train/006417.jpg 344,99,568,357,0
+dataset/cartoon_train/006418.jpg 430,64,586,225,0
+dataset/cartoon_train/006419.jpg 204,79,401,294,0
+dataset/cartoon_train/006420.jpg 234,206,420,306,0
+dataset/cartoon_train/006421.jpg 185,110,278,231,0
+dataset/cartoon_train/006422.jpg 224,98,327,231,0
+dataset/cartoon_train/006423.jpg 233,173,499,353,0 62,50,152,114,0 70,299,166,344,0
+dataset/cartoon_train/006424.jpg 299,145,513,302,0
+dataset/cartoon_train/006425.jpg 171,102,238,153,0
+dataset/cartoon_train/006426.jpg 174,251,203,279,0 128,168,152,205,0 43,194,83,229,0 24,267,55,294,0
+dataset/cartoon_train/006427.jpg 194,85,278,153,0 536,73,849,449,0
+dataset/cartoon_train/006428.jpg 358,86,638,392,0
+dataset/cartoon_train/006429.jpg 503,116,604,256,0
+dataset/cartoon_train/006430.jpg 315,79,432,226,0
+dataset/cartoon_train/006431.jpg 390,141,485,211,0
+dataset/cartoon_train/006432.jpg 169,111,275,203,0 84,58,120,89,0
+dataset/cartoon_train/006433.jpg 333,167,580,391,0
+dataset/cartoon_train/006434.jpg 299,79,564,250,0
+dataset/cartoon_train/006435.jpg 73,58,161,145,0
+dataset/cartoon_train/006436.jpg 467,295,559,382,0
+dataset/cartoon_train/006437.jpg 400,72,432,100,0 581,307,617,348,0
+dataset/cartoon_train/006438.jpg 508,147,632,291,0 144,145,236,289,0
+dataset/cartoon_train/006439.jpg 73,4,146,171,0
+dataset/cartoon_train/006440.jpg 766,387,817,447,0
+dataset/cartoon_train/006441.jpg 358,168,446,251,0
+dataset/cartoon_train/006442.jpg 181,190,414,298,0
+dataset/cartoon_train/006443.jpg 327,403,360,432,0
+dataset/cartoon_train/006444.jpg 394,148,494,258,0 230,300,281,375,0
+dataset/cartoon_train/006445.jpg 166,102,238,192,0 408,201,443,274,0 561,200,624,338,0
+dataset/cartoon_train/006446.jpg 177,171,242,244,0 242,85,305,148,0
+dataset/cartoon_train/006447.jpg 156,383,174,398,0 138,184,175,224,0
+dataset/cartoon_train/006448.jpg 215,99,377,232,0
+dataset/cartoon_train/006449.jpg 160,107,296,261,0 450,130,572,275,0
+dataset/cartoon_train/006450.jpg 316,28,429,144,0
+dataset/cartoon_train/006451.jpg 308,38,547,274,0
+dataset/cartoon_train/006452.jpg 540,392,702,524,0
+dataset/cartoon_train/006453.jpg 81,40,132,92,0
+dataset/cartoon_train/006454.jpg 347,192,527,364,0
+dataset/cartoon_train/006455.jpg 492,284,563,347,0
+dataset/cartoon_train/006456.jpg 224,203,306,292,0 608,186,688,306,0
+dataset/cartoon_train/006457.jpg 240,107,260,123,0 660,131,674,150,0
+dataset/cartoon_train/006458.jpg 353,140,427,249,0
+dataset/cartoon_train/006459.jpg 824,62,928,198,0 196,39,366,260,0
+dataset/cartoon_train/006460.jpg 318,251,340,270,0 620,173,640,207,0 590,169,613,202,0 574,197,594,224,0 599,237,634,288,0 585,275,611,307,0 588,314,620,362,0
+dataset/cartoon_train/006461.jpg 381,235,404,272,0
+dataset/cartoon_train/006462.jpg 140,131,371,340,0 694,308,749,369,0
+dataset/cartoon_train/006463.jpg 399,111,451,161,0
+dataset/cartoon_train/006464.jpg 145,154,173,176,0 436,152,461,184,0
+dataset/cartoon_train/006465.jpg 625,83,664,123,0 693,183,840,395,0
+dataset/cartoon_train/006466.jpg 192,75,424,345,0
+dataset/cartoon_train/006467.jpg 524,125,622,281,0 351,247,442,342,0 287,161,332,200,0
+dataset/cartoon_train/006468.jpg 316,115,493,319,0
+dataset/cartoon_train/006469.jpg 450,101,737,289,0
+dataset/cartoon_train/006470.jpg 97,101,360,442,0 523,74,804,372,0
+dataset/cartoon_train/006471.jpg 370,321,467,424,0
+dataset/cartoon_train/006472.jpg 549,112,626,208,0
+dataset/cartoon_train/006473.jpg 220,109,312,315,0 457,158,540,225,0
+dataset/cartoon_train/006474.jpg 231,203,266,240,0
+dataset/cartoon_train/006475.jpg 201,59,555,477,0
+dataset/cartoon_train/006476.jpg 187,113,240,162,0
+dataset/cartoon_train/006477.jpg 75,27,92,47,0
+dataset/cartoon_train/006478.jpg 222,106,562,343,0
+dataset/cartoon_train/006479.jpg 632,303,786,443,0 372,160,618,370,0 161,2,282,101,0
+dataset/cartoon_train/006480.jpg 381,42,569,269,0
+dataset/cartoon_train/006481.jpg 106,142,182,208,0 358,101,463,187,0
+dataset/cartoon_train/006482.jpg 416,150,729,405,0
+dataset/cartoon_train/006483.jpg 102,127,217,227,0
+dataset/cartoon_train/006484.jpg 221,78,279,146,0 93,108,145,173,0
+dataset/cartoon_train/006485.jpg 465,168,548,245,0 685,284,753,362,0 88,296,233,416,0
+dataset/cartoon_train/006486.jpg 355,97,425,189,0
+dataset/cartoon_train/006487.jpg 111,35,145,69,0
+dataset/cartoon_train/006488.jpg 159,131,226,261,0 464,237,517,379,0
+dataset/cartoon_train/006489.jpg 341,83,417,157,0 481,96,561,177,0
+dataset/cartoon_train/006490.jpg 682,263,704,298,0
+dataset/cartoon_train/006491.jpg 139,90,245,218,0
+dataset/cartoon_train/006492.jpg 542,145,643,238,0
+dataset/cartoon_train/006493.jpg 83,62,289,287,0
+dataset/cartoon_train/006494.jpg 373,132,560,288,0 605,221,673,271,0
+dataset/cartoon_train/006495.jpg 347,148,448,276,0
+dataset/cartoon_train/006496.jpg 476,235,490,258,0 83,104,144,155,0
+dataset/cartoon_train/006497.jpg 222,89,586,417,0
+dataset/cartoon_train/006498.jpg 173,149,309,304,0
+dataset/cartoon_train/006499.jpg 611,155,647,195,0 181,319,211,355,0
+dataset/cartoon_train/006500.jpg 425,158,585,295,0
+dataset/cartoon_train/006501.jpg 234,216,309,284,0
+dataset/cartoon_train/006502.jpg 166,182,375,356,0
+dataset/cartoon_train/006503.jpg 517,149,692,325,0 390,212,515,303,0 236,106,370,220,0 110,261,212,330,0
+dataset/cartoon_train/006504.jpg 2,333,79,393,0
+dataset/cartoon_train/006505.jpg 370,143,564,301,0 126,84,189,140,0 60,228,274,403,0
+dataset/cartoon_train/006506.jpg 178,168,246,231,0
+dataset/cartoon_train/006507.jpg 346,175,545,356,0 143,0,369,218,0
+dataset/cartoon_train/006508.jpg 150,117,269,280,0 412,48,525,161,0
+dataset/cartoon_train/006509.jpg 73,151,407,420,0
+dataset/cartoon_train/006510.jpg 174,39,271,118,0
+dataset/cartoon_train/006511.jpg 437,146,534,231,0
+dataset/cartoon_train/006512.jpg 11,231,64,297,0
+dataset/cartoon_train/006513.jpg 363,210,516,357,0 169,25,340,217,0
+dataset/cartoon_train/006514.jpg 211,82,238,123,0 227,137,257,184,0 170,267,213,312,0 91,266,131,305,0 5,263,44,302,0
+dataset/cartoon_train/006515.jpg 353,64,424,131,0
+dataset/cartoon_train/006516.jpg 194,166,245,212,0 104,236,145,271,0 338,101,417,199,0
+dataset/cartoon_train/006517.jpg 326,86,515,426,0
+dataset/cartoon_train/006518.jpg 294,76,468,263,0
+dataset/cartoon_train/006519.jpg 106,96,214,197,0 397,129,424,156,0 441,134,471,155,0
+dataset/cartoon_train/006520.jpg 191,226,465,574,0
+dataset/cartoon_train/006521.jpg 15,88,99,163,0
+dataset/cartoon_train/006522.jpg 356,64,519,299,0
+dataset/cartoon_train/006523.jpg 562,242,583,267,0
+dataset/cartoon_train/006524.jpg 158,235,258,292,0 297,282,347,337,0
+dataset/cartoon_train/006525.jpg 275,121,487,316,0
+dataset/cartoon_train/006526.jpg 228,298,372,392,0
+dataset/cartoon_train/006527.jpg 88,92,188,204,0
+dataset/cartoon_train/006528.jpg 489,111,540,180,0
+dataset/cartoon_train/006529.jpg 127,124,208,273,0 538,353,564,383,0
+dataset/cartoon_train/006530.jpg 402,79,508,267,0
+dataset/cartoon_train/006531.jpg 836,149,892,352,0
+dataset/cartoon_train/006532.jpg 176,160,314,297,0 446,289,477,326,0
+dataset/cartoon_train/006533.jpg 146,168,202,254,0
+dataset/cartoon_train/006534.jpg 821,181,1033,429,0 382,229,601,436,0 152,197,387,421,0
+dataset/cartoon_train/006535.jpg 109,191,216,286,0 210,209,324,295,0 381,31,423,63,0
+dataset/cartoon_train/006536.jpg 291,125,483,306,0
+dataset/cartoon_train/006537.jpg 375,66,521,151,0 375,157,523,286,0
+dataset/cartoon_train/006538.jpg 266,108,424,236,0
+dataset/cartoon_train/006539.jpg 502,133,605,260,0
+dataset/cartoon_train/006540.jpg 394,102,506,218,0 183,55,282,210,0
+dataset/cartoon_train/006541.jpg 321,249,397,337,0
+dataset/cartoon_train/006542.jpg 707,240,830,365,0 3,230,151,369,0
+dataset/cartoon_train/006543.jpg 454,205,555,293,0
+dataset/cartoon_train/006544.jpg 120,132,507,469,0
+dataset/cartoon_train/006545.jpg 398,110,595,296,0 532,326,563,348,0
+dataset/cartoon_train/006546.jpg 456,219,512,302,0 45,238,98,277,0
+dataset/cartoon_train/006547.jpg 165,80,274,214,0 341,197,435,314,0
+dataset/cartoon_train/006548.jpg 196,99,223,116,0 207,132,229,150,0 118,236,161,315,0
+dataset/cartoon_train/006549.jpg 204,143,412,365,0
+dataset/cartoon_train/006550.jpg 193,76,262,149,0 392,249,459,304,0 523,342,666,465,0 341,400,447,475,0 0,334,144,492,0
+dataset/cartoon_train/006551.jpg 329,138,349,172,0
+dataset/cartoon_train/006552.jpg 3,293,169,424,0
+dataset/cartoon_train/006553.jpg 251,114,504,352,0
+dataset/cartoon_train/006554.jpg 346,146,404,212,0
+dataset/cartoon_train/006555.jpg 358,187,414,259,0 311,99,342,167,0
+dataset/cartoon_train/006556.jpg 484,137,578,238,0
+dataset/cartoon_train/006557.jpg 570,221,642,298,0 246,222,368,353,0 485,405,502,428,0
+dataset/cartoon_train/006558.jpg 264,136,378,264,0
+dataset/cartoon_train/006559.jpg 259,124,406,270,0
+dataset/cartoon_train/006560.jpg 398,110,413,136,0 421,103,471,164,0
+dataset/cartoon_train/006561.jpg 195,125,289,224,0 328,415,440,496,0
+dataset/cartoon_train/006562.jpg 302,137,550,391,0
+dataset/cartoon_train/006563.jpg 292,103,372,183,0 390,241,519,408,0
+dataset/cartoon_train/006564.jpg 255,153,436,348,0
+dataset/cartoon_train/006565.jpg 406,119,607,296,0 257,177,369,281,0
+dataset/cartoon_train/006566.jpg 387,190,441,250,0
+dataset/cartoon_train/006567.jpg 390,235,528,342,0
+dataset/cartoon_train/006568.jpg 199,9,445,287,0 481,86,609,359,0
+dataset/cartoon_train/006569.jpg 148,210,281,349,0 392,213,545,336,0
+dataset/cartoon_train/006570.jpg 371,231,426,306,0
+dataset/cartoon_train/006571.jpg 422,122,596,321,0 252,22,426,220,0 123,163,337,336,0
+dataset/cartoon_train/006572.jpg 298,120,398,224,0
+dataset/cartoon_train/006573.jpg 458,418,475,436,0 513,454,532,469,0
+dataset/cartoon_train/006574.jpg 559,219,718,388,0 538,41,699,240,0 307,199,424,380,0 214,23,299,227,0
+dataset/cartoon_train/006575.jpg 231,139,327,283,0
+dataset/cartoon_train/006576.jpg 74,44,139,104,0
+dataset/cartoon_train/006577.jpg 320,60,412,136,0
+dataset/cartoon_train/006578.jpg 298,144,545,382,0
+dataset/cartoon_train/006579.jpg 232,94,465,333,0
+dataset/cartoon_train/006580.jpg 360,55,423,124,0 293,83,340,145,0 170,66,223,118,0 84,61,136,106,0
+dataset/cartoon_train/006581.jpg 283,246,303,270,0
+dataset/cartoon_train/006582.jpg 220,58,414,213,0
+dataset/cartoon_train/006583.jpg 432,9,843,463,0
+dataset/cartoon_train/006584.jpg 296,63,343,117,0 234,55,279,116,0 239,140,280,193,0 74,120,172,209,0 328,299,388,372,0 190,205,286,327,0 35,277,111,348,0
+dataset/cartoon_train/006585.jpg 266,63,372,239,0 114,215,182,294,0
+dataset/cartoon_train/006586.jpg 441,146,525,248,0
+dataset/cartoon_train/006587.jpg 201,128,392,263,0
+dataset/cartoon_train/006588.jpg 60,28,113,88,0
+dataset/cartoon_train/006589.jpg 448,222,565,327,0 317,265,419,372,0
+dataset/cartoon_train/006590.jpg 341,92,392,149,0 242,96,290,142,0 75,62,117,107,0 75,167,132,231,0
+dataset/cartoon_train/006591.jpg 365,125,415,177,0 478,101,558,160,0 81,95,144,148,0 187,22,332,121,0 4,95,30,123,0
+dataset/cartoon_train/006592.jpg 299,113,507,240,0
+dataset/cartoon_train/006593.jpg 91,106,158,194,0
+dataset/cartoon_train/006594.jpg 459,190,572,323,0 123,323,160,357,0 204,352,235,378,0
+dataset/cartoon_train/006595.jpg 100,145,158,207,0
+dataset/cartoon_train/006596.jpg 275,213,303,244,0
+dataset/cartoon_train/006597.jpg 201,30,608,451,0
+dataset/cartoon_train/006598.jpg 474,193,495,217,0 592,185,620,214,0
+dataset/cartoon_train/006599.jpg 229,306,257,338,0 43,256,220,432,0
+dataset/cartoon_train/006600.jpg 252,87,555,452,0
+dataset/cartoon_train/006601.jpg 266,62,360,162,0 61,44,186,170,0
+dataset/cartoon_train/006602.jpg 178,89,252,159,0 32,74,122,143,0
+dataset/cartoon_train/006603.jpg 261,103,605,452,0
+dataset/cartoon_train/006604.jpg 519,150,803,433,0 260,160,383,451,0
+dataset/cartoon_train/006605.jpg 446,122,519,189,0 50,34,156,143,0
+dataset/cartoon_train/006606.jpg 443,137,719,401,0
+dataset/cartoon_train/006607.jpg 323,196,338,237,0 147,179,269,307,0 14,94,109,247,0
+dataset/cartoon_train/006608.jpg 169,154,294,273,0 168,54,236,124,0
+dataset/cartoon_train/006609.jpg 318,115,407,222,0
+dataset/cartoon_train/006610.jpg 323,8,561,270,0
+dataset/cartoon_train/006611.jpg 135,114,190,167,0 351,572,419,648,0
+dataset/cartoon_train/006612.jpg 87,124,240,227,0 364,2,452,119,0
+dataset/cartoon_train/006613.jpg 424,284,463,329,0
+dataset/cartoon_train/006614.jpg 657,219,838,499,0
+dataset/cartoon_train/006615.jpg 168,134,238,201,0 294,126,358,197,0 636,145,689,205,0 510,131,566,202,0 414,142,464,198,0 215,319,271,395,0 334,326,393,412,0 446,337,508,413,0 572,340,631,414,0
+dataset/cartoon_train/006616.jpg 363,140,504,282,0 665,284,740,368,0
+dataset/cartoon_train/006617.jpg 427,132,481,191,0
+dataset/cartoon_train/006618.jpg 181,96,469,333,0
+dataset/cartoon_train/006619.jpg 370,174,552,465,0
+dataset/cartoon_train/006620.jpg 286,61,351,142,0 140,117,207,166,0
+dataset/cartoon_train/006621.jpg 69,47,497,460,0
+dataset/cartoon_train/006622.jpg 88,11,121,50,0
+dataset/cartoon_train/006623.jpg 358,83,445,190,0
+dataset/cartoon_train/006624.jpg 185,251,359,387,0
+dataset/cartoon_train/006625.jpg 201,159,419,352,0
+dataset/cartoon_train/006626.jpg 279,149,464,301,0
+dataset/cartoon_train/006627.jpg 249,159,339,261,0
+dataset/cartoon_train/006628.jpg 284,220,512,433,0 154,319,221,382,0
+dataset/cartoon_train/006629.jpg 319,78,488,245,0
+dataset/cartoon_train/006630.jpg 271,87,511,343,0
+dataset/cartoon_train/006631.jpg 244,68,415,292,0
+dataset/cartoon_train/006632.jpg 588,129,648,194,0 65,25,286,455,0
+dataset/cartoon_train/006633.jpg 220,107,447,333,0
+dataset/cartoon_train/006634.jpg 449,30,519,116,0 276,201,339,280,0
+dataset/cartoon_train/006635.jpg 528,222,561,270,0 438,218,471,256,0
+dataset/cartoon_train/006636.jpg 126,90,885,500,0
+dataset/cartoon_train/006637.jpg 77,288,181,379,0 217,372,327,449,0
+dataset/cartoon_train/006638.jpg 161,208,211,265,0
+dataset/cartoon_train/006639.jpg 409,157,497,250,0 217,150,315,247,0
+dataset/cartoon_train/006640.jpg 418,95,534,201,0 374,230,490,366,0 316,93,386,159,0 565,170,677,290,0 755,248,846,352,0
+dataset/cartoon_train/006641.jpg 115,115,282,259,0
+dataset/cartoon_train/006642.jpg 383,94,434,168,0
+dataset/cartoon_train/006643.jpg 160,16,355,232,0
+dataset/cartoon_train/006644.jpg 271,280,289,298,0
+dataset/cartoon_train/006645.jpg 340,96,654,472,0
+dataset/cartoon_train/006646.jpg 407,117,458,159,0 819,131,847,176,0 150,421,199,461,0 673,436,726,479,0
+dataset/cartoon_train/006647.jpg 16,1,480,470,0
+dataset/cartoon_train/006648.jpg 436,120,493,186,0
+dataset/cartoon_train/006649.jpg 297,144,335,212,0
+dataset/cartoon_train/006650.jpg 255,127,380,285,0
+dataset/cartoon_train/006651.jpg 377,124,637,345,0
+dataset/cartoon_train/006652.jpg 450,195,520,262,0 327,303,351,325,0
+dataset/cartoon_train/006653.jpg 423,130,450,156,0
+dataset/cartoon_train/006654.jpg 380,232,445,290,0
+dataset/cartoon_train/006655.jpg 764,328,890,447,0 547,305,688,472,0 252,102,595,504,0
+dataset/cartoon_train/006656.jpg 404,96,436,149,0
+dataset/cartoon_train/006657.jpg 165,100,234,175,0
+dataset/cartoon_train/006658.jpg 135,246,195,294,0 350,232,420,291,0
+dataset/cartoon_train/006659.jpg 202,210,357,365,0
+dataset/cartoon_train/006660.jpg 716,356,754,410,0 514,93,633,203,0 475,240,519,273,0 298,388,326,420,0 167,85,265,251,0
+dataset/cartoon_train/006661.jpg 466,187,564,279,0 599,335,651,396,0 568,431,624,484,0
+dataset/cartoon_train/006662.jpg 588,216,614,258,0
+dataset/cartoon_train/006663.jpg 246,372,346,490,0 181,219,248,288,0 586,197,617,233,0
+dataset/cartoon_train/006664.jpg 543,146,666,285,0 214,165,354,329,0
+dataset/cartoon_train/006665.jpg 478,176,516,250,0 280,101,336,170,0 185,167,213,243,0
+dataset/cartoon_train/006666.jpg 54,89,124,157,0
+dataset/cartoon_train/006667.jpg 96,58,143,99,0
+dataset/cartoon_train/006668.jpg 222,115,460,305,0
+dataset/cartoon_train/006669.jpg 412,200,544,362,0
+dataset/cartoon_train/006670.jpg 330,164,410,322,0
+dataset/cartoon_train/006671.jpg 229,233,427,405,0
+dataset/cartoon_train/006672.jpg 522,153,598,297,0
+dataset/cartoon_train/006673.jpg 115,60,318,197,0
+dataset/cartoon_train/006674.jpg 225,174,355,324,0
+dataset/cartoon_train/006675.jpg 322,83,610,310,0 723,357,753,399,0 573,365,615,403,0 467,375,499,409,0 361,368,394,403,0 254,364,283,404,0 148,362,178,407,0 30,374,66,415,0
+dataset/cartoon_train/006676.jpg 665,149,708,197,0 260,68,324,147,0
+dataset/cartoon_train/006677.jpg 452,40,732,431,0
+dataset/cartoon_train/006678.jpg 419,180,731,377,0
+dataset/cartoon_train/006679.jpg 202,101,334,314,0
+dataset/cartoon_train/006680.jpg 646,115,693,204,0 309,305,380,373,0
+dataset/cartoon_train/006681.jpg 379,17,538,253,0
+dataset/cartoon_train/006682.jpg 143,151,271,272,0 314,115,444,246,0
+dataset/cartoon_train/006683.jpg 154,79,531,451,0
+dataset/cartoon_train/006684.jpg 193,70,254,144,0 225,179,273,252,0 257,164,311,233,0 231,328,293,390,0 199,374,233,408,0 296,435,316,469,0
+dataset/cartoon_train/006685.jpg 251,7,334,125,0 465,214,520,298,0
+dataset/cartoon_train/006686.jpg 361,174,404,209,0
+dataset/cartoon_train/006687.jpg 105,60,691,476,0
+dataset/cartoon_train/006688.jpg 87,377,307,558,0
+dataset/cartoon_train/006689.jpg 318,94,346,124,0
+dataset/cartoon_train/006690.jpg 177,256,345,392,0
+dataset/cartoon_train/006691.jpg 541,68,580,124,0 348,119,372,149,0 703,868,723,894,0
+dataset/cartoon_train/006692.jpg 424,217,475,284,0
+dataset/cartoon_train/006693.jpg 455,40,594,170,0
+dataset/cartoon_train/006694.jpg 143,272,243,366,0
+dataset/cartoon_train/006695.jpg 270,0,669,407,0
+dataset/cartoon_train/006696.jpg 465,223,517,277,0
+dataset/cartoon_train/006697.jpg 188,20,314,303,0
+dataset/cartoon_train/006698.jpg 528,965,842,1166,0 713,1495,878,1625,0
+dataset/cartoon_train/006699.jpg 636,273,730,349,0 391,195,512,256,0
+dataset/cartoon_train/006700.jpg 285,286,413,376,0
+dataset/cartoon_train/006701.jpg 472,135,632,271,0
+dataset/cartoon_train/006702.jpg 251,124,329,199,0
+dataset/cartoon_train/006703.jpg 254,425,284,452,0 284,402,319,427,0 365,454,393,472,0 264,458,295,475,0
+dataset/cartoon_train/006704.jpg 147,53,217,190,0 205,65,275,180,0 110,226,150,290,0 134,195,171,239,0 246,246,274,281,0
+dataset/cartoon_train/006705.jpg 505,168,640,322,0 54,295,172,422,0
+dataset/cartoon_train/006706.jpg 115,111,312,348,0
+dataset/cartoon_train/006707.jpg 243,143,304,223,0
+dataset/cartoon_train/006708.jpg 88,165,134,204,0 23,198,51,229,0 43,156,65,174,0
+dataset/cartoon_train/006709.jpg 277,137,371,320,0
+dataset/cartoon_train/006710.jpg 304,212,464,390,0
+dataset/cartoon_train/006711.jpg 381,62,474,165,0
+dataset/cartoon_train/006712.jpg 384,209,734,789,0
+dataset/cartoon_train/006713.jpg 3,25,291,348,0
+dataset/cartoon_train/006714.jpg 93,108,123,136,0 168,183,209,247,0
+dataset/cartoon_train/006715.jpg 657,215,840,393,0 413,236,594,403,0 75,136,359,413,0
+dataset/cartoon_train/006716.jpg 117,148,544,441,0
+dataset/cartoon_train/006717.jpg 365,81,451,172,0
+dataset/cartoon_train/006718.jpg 463,215,702,386,0 68,34,462,307,0
+dataset/cartoon_train/006719.jpg 349,422,416,489,0 138,236,244,366,0 257,205,298,250,0 324,189,360,250,0
+dataset/cartoon_train/006720.jpg 487,184,665,379,0 257,179,275,200,0
+dataset/cartoon_train/006721.jpg 369,197,501,424,0
+dataset/cartoon_train/006722.jpg 58,97,163,183,0
+dataset/cartoon_train/006723.jpg 191,55,293,165,0
+dataset/cartoon_train/006724.jpg 235,121,376,270,0
+dataset/cartoon_train/006725.jpg 426,108,462,138,0
+dataset/cartoon_train/006726.jpg 203,55,228,87,0
+dataset/cartoon_train/006727.jpg 175,86,459,365,0
+dataset/cartoon_train/006728.jpg 220,82,295,216,0 292,92,376,220,0
+dataset/cartoon_train/006729.jpg 383,141,517,274,0 0,70,32,111,0
+dataset/cartoon_train/006730.jpg 476,179,589,338,0
+dataset/cartoon_train/006731.jpg 443,135,488,183,0 285,103,318,143,0 101,240,141,279,0 282,339,318,373,0
+dataset/cartoon_train/006732.jpg 695,204,792,293,0 440,223,531,298,0 108,166,274,303,0
+dataset/cartoon_train/006733.jpg 487,115,514,143,0 402,113,429,140,0 326,105,351,139,0 424,128,444,152,0
+dataset/cartoon_train/006734.jpg 148,5,212,47,0
+dataset/cartoon_train/006735.jpg 560,250,657,338,0 644,135,679,179,0
+dataset/cartoon_train/006736.jpg 185,228,290,310,0 112,139,197,225,0
+dataset/cartoon_train/006737.jpg 330,395,352,422,0 285,411,298,434,0 185,423,202,441,0 621,486,636,507,0 682,607,695,628,0
+dataset/cartoon_train/006738.jpg 297,163,479,317,0 781,177,847,310,0
+dataset/cartoon_train/006739.jpg 491,264,526,296,0 262,68,305,111,0
+dataset/cartoon_train/006740.jpg 560,120,646,223,0
+dataset/cartoon_train/006741.jpg 529,134,575,200,0
+dataset/cartoon_train/006742.jpg 306,16,527,314,0
+dataset/cartoon_train/006743.jpg 470,242,510,318,0
+dataset/cartoon_train/006744.jpg 498,128,704,371,0
+dataset/cartoon_train/006745.jpg 447,98,532,204,0 185,63,318,161,0
+dataset/cartoon_train/006746.jpg 333,68,441,182,0
+dataset/cartoon_train/006747.jpg 351,136,581,315,0 126,279,299,436,0
+dataset/cartoon_train/006748.jpg 142,113,198,186,0 235,322,328,420,0
+dataset/cartoon_train/006749.jpg 377,78,563,267,0
+dataset/cartoon_train/006750.jpg 283,47,427,156,0
+dataset/cartoon_train/006751.jpg 508,190,601,292,0 353,230,419,301,0 255,225,332,301,0 45,263,97,312,0
+dataset/cartoon_train/006752.jpg 156,52,272,113,0
+dataset/cartoon_train/006753.jpg 236,179,268,222,0
+dataset/cartoon_train/006754.jpg 78,190,200,302,0
+dataset/cartoon_train/006755.jpg 264,172,322,226,0 234,138,271,176,0
+dataset/cartoon_train/006756.jpg 392,185,463,308,0 806,188,890,299,0
+dataset/cartoon_train/006757.jpg 189,112,228,151,0 574,86,603,113,0
+dataset/cartoon_train/006758.jpg 282,211,306,226,0 165,77,204,132,0 103,50,119,67,0
+dataset/cartoon_train/006759.jpg 421,162,510,251,0
+dataset/cartoon_train/006760.jpg 105,142,178,225,0
+dataset/cartoon_train/006761.jpg 347,102,384,157,0 518,91,571,147,0
+dataset/cartoon_train/006762.jpg 466,206,503,250,0
+dataset/cartoon_train/006763.jpg 490,574,620,671,0 590,489,710,605,0 345,417,507,565,0 300,697,365,763,0
+dataset/cartoon_train/006764.jpg 8,34,496,442,0
+dataset/cartoon_train/006765.jpg 289,211,388,321,0 189,181,269,267,0 52,205,170,310,0 9,278,32,306,0
+dataset/cartoon_train/006766.jpg 306,133,373,230,0
+dataset/cartoon_train/006767.jpg 276,150,625,434,0
+dataset/cartoon_train/006768.jpg 33,238,47,264,0
+dataset/cartoon_train/006769.jpg 194,196,317,360,0
+dataset/cartoon_train/006770.jpg 292,130,415,252,0
+dataset/cartoon_train/006771.jpg 114,226,168,324,0 95,350,187,457,0
+dataset/cartoon_train/006772.jpg 469,195,607,448,0 123,32,377,448,0
+dataset/cartoon_train/006773.jpg 272,190,299,221,0
+dataset/cartoon_train/006774.jpg 158,211,389,440,0
+dataset/cartoon_train/006775.jpg 617,244,677,297,0
+dataset/cartoon_train/006776.jpg 560,327,601,364,0
+dataset/cartoon_train/006777.jpg 143,110,543,397,0
+dataset/cartoon_train/006778.jpg 118,103,138,125,0
+dataset/cartoon_train/006779.jpg 114,252,148,286,0
+dataset/cartoon_train/006780.jpg 193,170,313,248,0
+dataset/cartoon_train/006781.jpg 299,80,574,377,0
+dataset/cartoon_train/006782.jpg 564,173,672,325,0 316,197,373,250,0 131,169,200,238,0 261,249,301,286,0
+dataset/cartoon_train/006783.jpg 301,286,348,328,0
+dataset/cartoon_train/006784.jpg 207,163,562,437,0
+dataset/cartoon_train/006785.jpg 494,5,550,47,0
+dataset/cartoon_train/006786.jpg 11,79,63,123,0
+dataset/cartoon_train/006787.jpg 201,230,270,304,0 151,28,203,79,0 15,236,83,305,0 108,464,210,553,0 309,543,337,566,0
+dataset/cartoon_train/006788.jpg 395,135,592,376,0
+dataset/cartoon_train/006789.jpg 218,152,718,417,0
+dataset/cartoon_train/006790.jpg 732,132,778,226,0 217,219,251,253,0 64,242,92,273,0
+dataset/cartoon_train/006791.jpg 224,127,511,437,0
+dataset/cartoon_train/006792.jpg 400,164,443,214,0 177,187,216,243,0
+dataset/cartoon_train/006793.jpg 113,82,272,245,0 285,112,477,307,0
+dataset/cartoon_train/006794.jpg 359,66,483,197,0
+dataset/cartoon_train/006795.jpg 279,67,378,159,0 93,114,158,192,0
+dataset/cartoon_train/006796.jpg 270,181,299,226,0
+dataset/cartoon_train/006797.jpg 399,200,501,280,0
+dataset/cartoon_train/006798.jpg 205,137,283,210,0 81,56,186,172,0 247,23,297,71,0 31,58,90,123,0 19,160,68,221,0
+dataset/cartoon_train/006799.jpg 162,86,233,154,0 85,174,155,252,0
+dataset/cartoon_train/006800.jpg 45,218,210,363,0
+dataset/cartoon_train/006801.jpg 388,172,554,351,0
+dataset/cartoon_train/006802.jpg 151,117,181,149,0 629,265,644,297,0
+dataset/cartoon_train/006803.jpg 260,88,313,182,0 214,78,263,176,0
+dataset/cartoon_train/006804.jpg 352,179,464,258,0
+dataset/cartoon_train/006805.jpg 238,124,382,213,0
+dataset/cartoon_train/006806.jpg 275,8,636,471,0
+dataset/cartoon_train/006807.jpg 141,251,286,406,0
+dataset/cartoon_train/006808.jpg 313,9,529,284,0
+dataset/cartoon_train/006809.jpg 534,110,635,189,0
+dataset/cartoon_train/006810.jpg 273,90,342,208,0
+dataset/cartoon_train/006811.jpg 63,14,336,127,0 337,124,575,233,0 54,196,342,314,0 263,325,502,412,0 103,409,412,504,0
+dataset/cartoon_train/006812.jpg 69,208,150,291,0 194,66,260,147,0 366,70,443,138,0 18,262,102,338,0
+dataset/cartoon_train/006813.jpg 556,181,622,238,0 222,261,292,326,0
+dataset/cartoon_train/006814.jpg 534,232,578,278,0 517,193,559,242,0 261,230,330,299,0
+dataset/cartoon_train/006815.jpg 276,32,579,448,0
+dataset/cartoon_train/006816.jpg 61,7,104,51,0 25,166,62,206,0
+dataset/cartoon_train/006817.jpg 148,47,174,73,0
+dataset/cartoon_train/006818.jpg 239,76,631,453,0
+dataset/cartoon_train/006819.jpg 93,49,172,154,0
+dataset/cartoon_train/006820.jpg 97,327,173,400,0 388,76,460,170,0
+dataset/cartoon_train/006821.jpg 410,3,461,81,0 680,26,744,87,0
+dataset/cartoon_train/006822.jpg 97,157,450,421,0
+dataset/cartoon_train/006823.jpg 416,153,627,391,0
+dataset/cartoon_train/006824.jpg 405,125,545,297,0 575,159,675,301,0
+dataset/cartoon_train/006825.jpg 331,85,640,389,0
+dataset/cartoon_train/006826.jpg 439,107,539,219,0 316,220,358,259,0
+dataset/cartoon_train/006827.jpg 154,235,206,278,0 241,272,274,304,0
+dataset/cartoon_train/006828.jpg 386,54,599,315,0
+dataset/cartoon_train/006829.jpg 264,210,284,233,0 282,190,307,216,0 426,203,457,244,0 349,228,366,249,0 319,205,348,228,0 375,242,401,262,0 402,325,424,349,0
+dataset/cartoon_train/006830.jpg 208,88,402,236,0
+dataset/cartoon_train/006831.jpg 515,183,538,223,0
+dataset/cartoon_train/006832.jpg 202,93,349,261,0 106,182,189,252,0 438,157,529,260,0
+dataset/cartoon_train/006833.jpg 336,164,427,279,0 507,177,570,224,0
+dataset/cartoon_train/006834.jpg 309,131,422,296,0
+dataset/cartoon_train/006835.jpg 305,61,331,83,0
+dataset/cartoon_train/006836.jpg 257,84,419,330,0
+dataset/cartoon_train/006837.jpg 680,100,707,133,0 130,144,276,343,0
+dataset/cartoon_train/006838.jpg 348,77,394,155,0
+dataset/cartoon_train/006839.jpg 233,144,382,292,0
+dataset/cartoon_train/006840.jpg 320,70,386,179,0
+dataset/cartoon_train/006841.jpg 369,96,481,222,0
+dataset/cartoon_train/006842.jpg 247,364,268,382,0
+dataset/cartoon_train/006843.jpg 170,86,187,107,0
+dataset/cartoon_train/006844.jpg 52,104,178,234,0
+dataset/cartoon_train/006845.jpg 230,74,273,117,0
+dataset/cartoon_train/006846.jpg 209,240,244,289,0
+dataset/cartoon_train/006847.jpg 383,138,445,197,0
+dataset/cartoon_train/006848.jpg 239,45,276,85,0
+dataset/cartoon_train/006849.jpg 267,205,372,307,0 467,186,544,296,0
+dataset/cartoon_train/006850.jpg 635,164,765,253,0 399,188,499,272,0 36,97,247,267,0
+dataset/cartoon_train/006851.jpg 148,36,163,60,0
+dataset/cartoon_train/006852.jpg 281,72,541,343,0
+dataset/cartoon_train/006853.jpg 244,153,338,242,0 223,241,307,305,0
+dataset/cartoon_train/006854.jpg 436,154,529,244,0
+dataset/cartoon_train/006855.jpg 220,148,309,225,0 287,62,367,133,0 512,19,545,62,0 156,154,225,209,0
+dataset/cartoon_train/006856.jpg 148,141,205,193,0 401,384,474,442,0
+dataset/cartoon_train/006857.jpg 494,95,541,161,0 203,100,255,175,0
+dataset/cartoon_train/006858.jpg 295,148,353,205,0
+dataset/cartoon_train/006859.jpg 289,88,475,370,0
+dataset/cartoon_train/006860.jpg 589,271,667,327,0 731,140,776,215,0 505,78,554,130,0 224,184,280,270,0 172,122,216,215,0
+dataset/cartoon_train/006861.jpg 212,203,408,369,0 357,137,463,358,0
+dataset/cartoon_train/006862.jpg 198,247,268,314,0 369,234,435,293,0
+dataset/cartoon_train/006863.jpg 264,132,387,324,0
+dataset/cartoon_train/006864.jpg 131,242,210,315,0 326,255,388,298,0 445,257,528,308,0
+dataset/cartoon_train/006865.jpg 246,201,441,419,0
+dataset/cartoon_train/006866.jpg 94,18,194,124,0 260,115,324,179,0 345,151,397,200,0
+dataset/cartoon_train/006867.jpg 203,58,223,79,0
+dataset/cartoon_train/006868.jpg 452,122,509,187,0
+dataset/cartoon_train/006869.jpg 301,120,329,145,0
+dataset/cartoon_train/006870.jpg 235,210,398,295,0
+dataset/cartoon_train/006871.jpg 271,111,478,291,0
+dataset/cartoon_train/006872.jpg 577,237,595,258,0 614,282,633,298,0 622,319,647,339,0
+dataset/cartoon_train/006873.jpg 314,48,412,205,0
+dataset/cartoon_train/006874.jpg 353,301,562,474,0
+dataset/cartoon_train/006875.jpg 146,78,180,144,0 22,234,67,276,0 104,287,153,338,0 139,236,193,281,0 287,235,316,270,0 309,246,357,318,0 389,239,447,291,0 528,270,601,324,0
+dataset/cartoon_train/006876.jpg 851,404,958,504,0 851,789,1052,982,0 592,672,799,843,0 356,726,487,843,0 393,386,515,467,0
+dataset/cartoon_train/006877.jpg 269,281,292,309,0 559,126,617,184,0 299,306,315,331,0 361,266,378,293,0
+dataset/cartoon_train/006878.jpg 278,50,564,375,0
+dataset/cartoon_train/006879.jpg 146,139,204,181,0 201,185,221,203,0
+dataset/cartoon_train/006880.jpg 212,216,377,379,0
+dataset/cartoon_train/006881.jpg 353,114,512,260,0
+dataset/cartoon_train/006882.jpg 447,106,688,379,0
+dataset/cartoon_train/006883.jpg 242,100,274,144,0 396,290,462,339,0 766,123,808,189,0
+dataset/cartoon_train/006884.jpg 105,129,156,184,0
+dataset/cartoon_train/006885.jpg 358,346,377,360,0
+dataset/cartoon_train/006886.jpg 111,98,227,219,0
+dataset/cartoon_train/006887.jpg 200,201,469,402,0
+dataset/cartoon_train/006888.jpg 316,111,333,133,0 346,100,369,123,0
+dataset/cartoon_train/006889.jpg 402,207,454,264,0
+dataset/cartoon_train/006890.jpg 300,267,364,333,0
+dataset/cartoon_train/006891.jpg 337,87,676,381,0
+dataset/cartoon_train/006892.jpg 492,190,549,243,0
+dataset/cartoon_train/006893.jpg 384,103,601,342,0
+dataset/cartoon_train/006894.jpg 309,146,336,172,0
+dataset/cartoon_train/006895.jpg 114,164,165,216,0
+dataset/cartoon_train/006896.jpg 399,224,617,397,0 265,121,456,365,0
+dataset/cartoon_train/006897.jpg 188,200,396,410,0
+dataset/cartoon_train/006898.jpg 70,45,126,176,0
+dataset/cartoon_train/006899.jpg 374,228,529,377,0
+dataset/cartoon_train/006900.jpg 296,113,542,366,0
+dataset/cartoon_train/006901.jpg 313,125,451,335,0
+dataset/cartoon_train/006902.jpg 241,85,340,302,0
+dataset/cartoon_train/006903.jpg 309,181,432,286,0
+dataset/cartoon_train/006904.jpg 367,75,560,262,0
+dataset/cartoon_train/006905.jpg 4,82,255,184,0
+dataset/cartoon_train/006906.jpg 412,98,565,415,0
+dataset/cartoon_train/006907.jpg 625,169,674,212,0 535,349,650,456,0
+dataset/cartoon_train/006908.jpg 194,226,319,347,0 189,71,298,163,0
+dataset/cartoon_train/006909.jpg 462,115,562,231,0
+dataset/cartoon_train/006910.jpg 202,204,444,402,0
+dataset/cartoon_train/006911.jpg 241,93,525,355,0 607,144,632,165,0
+dataset/cartoon_train/006912.jpg 245,59,540,386,0
+dataset/cartoon_train/006913.jpg 344,219,408,292,0
+dataset/cartoon_train/006914.jpg 537,193,657,307,0
+dataset/cartoon_train/006915.jpg 184,0,458,322,0
+dataset/cartoon_train/006916.jpg 294,1,404,246,0
+dataset/cartoon_train/006917.jpg 290,130,499,275,0 130,254,258,378,0
+dataset/cartoon_train/006918.jpg 182,152,226,192,0
+dataset/cartoon_train/006919.jpg 440,26,605,306,0
+dataset/cartoon_train/006920.jpg 421,149,494,235,0
+dataset/cartoon_train/006921.jpg 46,185,115,255,0 378,265,505,370,0
+dataset/cartoon_train/006922.jpg 439,27,528,108,0
+dataset/cartoon_train/006923.jpg 437,197,523,300,0 8,212,76,301,0 176,295,221,348,0 302,334,340,376,0
+dataset/cartoon_train/006924.jpg 405,322,593,473,0 278,190,403,340,0 85,129,259,347,0
+dataset/cartoon_train/006925.jpg 505,199,524,226,0 147,44,218,122,0 673,157,725,206,0
+dataset/cartoon_train/006926.jpg 249,80,387,239,0
+dataset/cartoon_train/006927.jpg 279,194,396,286,0
+dataset/cartoon_train/006928.jpg 49,36,90,77,0 160,71,198,117,0 188,48,208,98,0
+dataset/cartoon_train/006929.jpg 147,74,379,280,0
+dataset/cartoon_train/006930.jpg 345,46,409,118,0
+dataset/cartoon_train/006931.jpg 15,101,371,447,0
+dataset/cartoon_train/006932.jpg 384,92,499,274,0
+dataset/cartoon_train/006933.jpg 316,199,363,259,0 588,272,628,329,0
+dataset/cartoon_train/006934.jpg 826,163,861,248,0
+dataset/cartoon_train/006935.jpg 212,124,485,417,0
+dataset/cartoon_train/006936.jpg 490,130,641,350,0
+dataset/cartoon_train/006937.jpg 363,288,684,526,0
+dataset/cartoon_train/006938.jpg 225,166,256,190,0 150,419,212,497,0
+dataset/cartoon_train/006939.jpg 248,128,465,325,0
+dataset/cartoon_train/006940.jpg 258,406,304,455,0
+dataset/cartoon_train/006941.jpg 215,129,462,384,0
+dataset/cartoon_train/006942.jpg 325,109,564,320,0
+dataset/cartoon_train/006943.jpg 155,226,215,302,0 187,124,243,184,0 180,15,249,76,0 22,41,126,164,0 5,201,55,262,0
+dataset/cartoon_train/006944.jpg 281,146,509,397,0
+dataset/cartoon_train/006945.jpg 563,45,601,91,0 638,392,675,430,0 447,121,463,138,0
+dataset/cartoon_train/006946.jpg 389,185,449,277,0 279,245,328,286,0
+dataset/cartoon_train/006947.jpg 289,52,482,228,0
+dataset/cartoon_train/006948.jpg 186,101,245,147,0
+dataset/cartoon_train/006949.jpg 380,120,451,197,0 602,143,668,241,0 123,101,261,181,0
+dataset/cartoon_train/006950.jpg 362,111,585,389,0
+dataset/cartoon_train/006951.jpg 412,117,479,184,0
+dataset/cartoon_train/006952.jpg 262,111,371,213,0
+dataset/cartoon_train/006953.jpg 430,164,452,185,0
+dataset/cartoon_train/006954.jpg 209,69,329,180,0 518,45,583,142,0
+dataset/cartoon_train/006955.jpg 718,317,825,413,0 505,273,629,401,0 302,93,444,276,0
+dataset/cartoon_train/006956.jpg 330,166,379,210,0
+dataset/cartoon_train/006957.jpg 431,207,519,341,0
+dataset/cartoon_train/006958.jpg 173,202,444,432,0
+dataset/cartoon_train/006959.jpg 275,57,322,113,0 405,248,433,273,0
+dataset/cartoon_train/006960.jpg 36,22,157,158,0 98,195,158,253,0 300,187,366,249,0 503,192,571,249,0
+dataset/cartoon_train/006961.jpg 243,94,298,157,0
+dataset/cartoon_train/006962.jpg 290,214,377,307,0
+dataset/cartoon_train/006963.jpg 298,127,351,179,0 194,35,256,90,0 98,51,152,102,0
+dataset/cartoon_train/006964.jpg 237,273,273,310,0 296,166,329,200,0 144,234,202,286,0 79,287,102,310,0 71,186,94,205,0
+dataset/cartoon_train/006965.jpg 302,2,590,501,0
+dataset/cartoon_train/006966.jpg 179,139,312,255,0
+dataset/cartoon_train/006967.jpg 120,261,185,326,0 668,248,737,320,0
+dataset/cartoon_train/006968.jpg 368,140,491,292,0 509,258,554,282,0
+dataset/cartoon_train/006969.jpg 433,179,491,240,0 276,165,341,255,0 99,171,157,250,0
+dataset/cartoon_train/006970.jpg 692,76,792,188,0 181,129,276,218,0 857,141,893,189,0
+dataset/cartoon_train/006971.jpg 320,154,407,317,0 250,68,347,284,0
+dataset/cartoon_train/006972.jpg 441,82,522,203,0
+dataset/cartoon_train/006973.jpg 242,150,265,166,0
+dataset/cartoon_train/006974.jpg 382,112,406,132,0 257,93,296,139,0 233,118,267,149,0
+dataset/cartoon_train/006975.jpg 145,84,166,101,0 230,107,246,125,0
+dataset/cartoon_train/006976.jpg 402,212,527,374,0
+dataset/cartoon_train/006977.jpg 685,148,875,325,0 189,284,422,420,0 3,2,59,139,0
+dataset/cartoon_train/006978.jpg 451,248,576,368,0 242,162,352,281,0
+dataset/cartoon_train/006979.jpg 191,180,249,232,0 222,87,261,143,0 98,107,177,184,0 6,164,64,221,0 18,40,54,97,0
+dataset/cartoon_train/006980.jpg 216,149,352,280,0
+dataset/cartoon_train/006981.jpg 74,121,120,155,0 106,63,157,102,0
+dataset/cartoon_train/006982.jpg 314,240,386,307,0
+dataset/cartoon_train/006983.jpg 363,294,404,342,0 198,164,282,237,0
+dataset/cartoon_train/006984.jpg 122,55,208,154,0
+dataset/cartoon_train/006985.jpg 394,1,567,170,0 112,157,192,234,0
+dataset/cartoon_train/006986.jpg 505,149,892,497,0
+dataset/cartoon_train/006987.jpg 562,176,698,414,0
+dataset/cartoon_train/006988.jpg 523,287,551,330,0 151,99,193,142,0
+dataset/cartoon_train/006989.jpg 213,190,249,227,0
+dataset/cartoon_train/006990.jpg 354,226,381,254,0
+dataset/cartoon_train/006991.jpg 158,161,200,206,0 146,242,172,268,0 101,250,130,277,0 107,222,132,247,0 43,178,96,233,0 83,66,172,142,0
+dataset/cartoon_train/006992.jpg 397,77,540,326,0
+dataset/cartoon_train/006993.jpg 576,45,654,127,0
+dataset/cartoon_train/006994.jpg 45,81,200,216,0
+dataset/cartoon_train/006995.jpg 245,49,559,436,0
+dataset/cartoon_train/006996.jpg 437,77,496,149,0
+dataset/cartoon_train/006997.jpg 461,180,636,339,0 119,213,246,348,0
+dataset/cartoon_train/006998.jpg 210,220,412,316,0
+dataset/cartoon_train/006999.jpg 327,172,582,422,0
+dataset/cartoon_train/007000.jpg 174,15,257,112,0
+dataset/cartoon_train/007001.jpg 750,307,799,350,0
+dataset/cartoon_train/007002.jpg 516,195,567,271,0 405,178,477,247,0 230,214,320,288,0
+dataset/cartoon_train/007003.jpg 258,365,325,442,0
+dataset/cartoon_train/007004.jpg 480,218,740,447,0 188,181,321,301,0
+dataset/cartoon_train/007005.jpg 250,209,392,344,0 457,136,628,290,0
+dataset/cartoon_train/007006.jpg 402,6,485,128,0
+dataset/cartoon_train/007007.jpg 85,122,595,483,0
+dataset/cartoon_train/007008.jpg 272,210,317,256,0 208,150,258,214,0
+dataset/cartoon_train/007009.jpg 389,226,619,393,0
+dataset/cartoon_train/007010.jpg 395,224,436,269,0
+dataset/cartoon_train/007011.jpg 174,127,492,339,0
+dataset/cartoon_train/007012.jpg 355,61,519,418,0
+dataset/cartoon_train/007013.jpg 200,145,341,342,0
+dataset/cartoon_train/007014.jpg 274,19,443,214,0
+dataset/cartoon_train/007015.jpg 405,237,499,347,0 262,299,350,381,0 180,455,265,512,0 156,313,221,390,0 176,12,310,158,0 59,251,101,290,0 31,333,113,405,0
+dataset/cartoon_train/007016.jpg 330,233,351,250,0
+dataset/cartoon_train/007017.jpg 354,129,395,173,0
+dataset/cartoon_train/007018.jpg 447,27,744,471,0
+dataset/cartoon_train/007019.jpg 280,95,347,160,0
+dataset/cartoon_train/007020.jpg 77,239,255,283,0 330,167,492,241,0
+dataset/cartoon_train/007021.jpg 296,236,386,322,0
+dataset/cartoon_train/007022.jpg 552,33,637,141,0
+dataset/cartoon_train/007023.jpg 728,96,850,168,0
+dataset/cartoon_train/007024.jpg 43,84,102,130,0 702,140,830,266,0 467,32,507,61,0 275,629,441,789,0 114,735,173,787,0 172,840,229,897,0 147,807,196,874,0 398,866,426,897,0 329,896,357,922,0 740,643,798,694,0 801,725,868,781,0 732,882,794,937,0 840,887,895,935,0 847,414,873,446,0 1159,694,1262,774,0 1103,426,1123,450,0 1062,418,1077,439,0
+dataset/cartoon_train/007025.jpg 439,264,511,370,0 82,102,184,227,0
+dataset/cartoon_train/007026.jpg 172,94,228,172,0
+dataset/cartoon_train/007027.jpg 690,86,765,176,0 546,409,628,480,0 146,83,200,147,0
+dataset/cartoon_train/007028.jpg 328,60,404,156,0
+dataset/cartoon_train/007029.jpg 199,64,322,151,0
+dataset/cartoon_train/007030.jpg 209,221,264,300,0
+dataset/cartoon_train/007031.jpg 400,66,677,337,0
+dataset/cartoon_train/007032.jpg 288,161,386,287,0
+dataset/cartoon_train/007033.jpg 186,10,701,379,0
+dataset/cartoon_train/007034.jpg 205,215,401,395,0
+dataset/cartoon_train/007035.jpg 549,245,649,349,0
+dataset/cartoon_train/007036.jpg 273,99,482,206,0
+dataset/cartoon_train/007037.jpg 154,349,188,380,0 308,233,478,380,0 470,244,666,379,0
+dataset/cartoon_train/007038.jpg 155,354,263,444,0
+dataset/cartoon_train/007039.jpg 359,203,432,293,0 152,166,287,244,0
+dataset/cartoon_train/007040.jpg 274,5,365,146,0
+dataset/cartoon_train/007041.jpg 322,158,507,353,0 594,130,690,346,0
+dataset/cartoon_train/007042.jpg 352,102,498,245,0
+dataset/cartoon_train/007043.jpg 224,126,392,322,0
+dataset/cartoon_train/007044.jpg 302,168,459,286,0
+dataset/cartoon_train/007045.jpg 440,59,616,163,0
+dataset/cartoon_train/007046.jpg 426,3,614,194,0
+dataset/cartoon_train/007047.jpg 287,31,311,52,0 62,26,96,56,0
+dataset/cartoon_train/007048.jpg 314,78,377,177,0
+dataset/cartoon_train/007049.jpg 589,291,652,344,0 467,295,496,348,0
+dataset/cartoon_train/007050.jpg 264,7,758,493,0
+dataset/cartoon_train/007051.jpg 369,114,482,330,0
+dataset/cartoon_train/007052.jpg 384,216,538,362,0
+dataset/cartoon_train/007053.jpg 208,7,261,59,0
+dataset/cartoon_train/007054.jpg 353,66,575,276,0
+dataset/cartoon_train/007055.jpg 248,113,373,253,0
+dataset/cartoon_train/007056.jpg 449,171,567,286,0 361,277,417,349,0
+dataset/cartoon_train/007057.jpg 552,163,672,293,0
+dataset/cartoon_train/007058.jpg 478,776,553,842,0 278,787,403,937,0
+dataset/cartoon_train/007059.jpg 109,128,237,259,0
+dataset/cartoon_train/007060.jpg 387,112,457,230,0 546,63,649,232,0 243,221,458,500,0
+dataset/cartoon_train/007061.jpg 172,190,446,419,0
+dataset/cartoon_train/007062.jpg 398,157,443,229,0
+dataset/cartoon_train/007063.jpg 490,203,653,342,0
+dataset/cartoon_train/007064.jpg 392,227,470,300,0
+dataset/cartoon_train/007065.jpg 235,110,299,184,0 152,163,208,228,0
+dataset/cartoon_train/007066.jpg 237,167,514,405,0
+dataset/cartoon_train/007067.jpg 3,64,18,89,0 90,44,110,63,0 45,91,79,118,0 20,32,37,51,0
+dataset/cartoon_train/007068.jpg 443,494,509,573,0 270,103,359,190,0
+dataset/cartoon_train/007069.jpg 480,246,520,277,0 290,345,335,391,0
+dataset/cartoon_train/007070.jpg 230,132,429,366,0
+dataset/cartoon_train/007071.jpg 372,60,597,340,0
+dataset/cartoon_train/007072.jpg 225,148,297,226,0
+dataset/cartoon_train/007073.jpg 409,47,473,117,0 176,282,348,463,0
+dataset/cartoon_train/007074.jpg 379,93,402,121,0 219,118,258,181,0
+dataset/cartoon_train/007075.jpg 381,156,497,340,0
+dataset/cartoon_train/007076.jpg 335,43,526,293,0
+dataset/cartoon_train/007077.jpg 355,163,488,322,0
+dataset/cartoon_train/007078.jpg 337,157,509,364,0
+dataset/cartoon_train/007079.jpg 512,158,581,252,0 168,146,272,248,0
+dataset/cartoon_train/007080.jpg 128,208,170,264,0 358,167,417,223,0 423,138,579,299,0
+dataset/cartoon_train/007081.jpg 218,140,355,348,0
+dataset/cartoon_train/007082.jpg 123,156,162,184,0 196,160,242,195,0 294,145,332,177,0
+dataset/cartoon_train/007083.jpg 306,237,340,274,0 206,200,262,234,0
+dataset/cartoon_train/007084.jpg 319,175,633,475,0
+dataset/cartoon_train/007085.jpg 406,150,494,230,0
+dataset/cartoon_train/007086.jpg 268,136,325,177,0 391,230,444,284,0 289,199,328,259,0 508,190,543,243,0 550,220,578,265,0
+dataset/cartoon_train/007087.jpg 324,126,518,305,0
+dataset/cartoon_train/007088.jpg 171,304,191,341,0 219,247,246,303,0
+dataset/cartoon_train/007089.jpg 1004,245,1283,553,0
+dataset/cartoon_train/007090.jpg 163,273,190,297,0
+dataset/cartoon_train/007091.jpg 56,21,101,93,0
+dataset/cartoon_train/007092.jpg 663,334,682,362,0 756,342,777,380,0
+dataset/cartoon_train/007093.jpg 422,250,460,293,0
+dataset/cartoon_train/007094.jpg 149,82,216,165,0
+dataset/cartoon_train/007095.jpg 412,85,533,263,0
+dataset/cartoon_train/007096.jpg 228,58,347,274,0
+dataset/cartoon_train/007097.jpg 232,145,358,297,0
+dataset/cartoon_train/007098.jpg 215,210,400,336,0
+dataset/cartoon_train/007099.jpg 181,123,452,353,0
+dataset/cartoon_train/007100.jpg 198,243,233,271,0 314,220,344,242,0
+dataset/cartoon_train/007101.jpg 483,129,562,212,0 333,209,419,294,0
+dataset/cartoon_train/007102.jpg 520,6,701,227,0
+dataset/cartoon_train/007103.jpg 32,63,97,125,0
+dataset/cartoon_train/007104.jpg 185,190,282,307,0 145,121,182,167,0 368,22,406,71,0 493,315,529,355,0
+dataset/cartoon_train/007105.jpg 255,0,519,186,0
+dataset/cartoon_train/007106.jpg 376,49,558,262,0
+dataset/cartoon_train/007107.jpg 420,73,648,326,0 157,195,363,407,0
+dataset/cartoon_train/007108.jpg 411,258,464,310,0 238,216,281,262,0 9,238,61,278,0
+dataset/cartoon_train/007109.jpg 305,205,378,262,0
+dataset/cartoon_train/007110.jpg 391,176,536,372,0 246,201,321,319,0 51,213,110,313,0
+dataset/cartoon_train/007111.jpg 157,198,718,479,0
+dataset/cartoon_train/007112.jpg 300,91,319,116,0 433,128,471,161,0
+dataset/cartoon_train/007113.jpg 206,84,312,198,0 736,270,792,330,0 572,368,598,407,0
+dataset/cartoon_train/007114.jpg 327,241,371,290,0 222,399,271,447,0 287,597,383,674,0
+dataset/cartoon_train/007115.jpg 242,156,381,324,0
+dataset/cartoon_train/007116.jpg 387,82,491,172,0 163,211,265,316,0
+dataset/cartoon_train/007117.jpg 267,83,374,176,0 509,153,608,243,0 78,128,180,213,0
+dataset/cartoon_train/007118.jpg 289,108,492,344,0
+dataset/cartoon_train/007119.jpg 354,128,491,278,0
+dataset/cartoon_train/007120.jpg 192,42,559,436,0
+dataset/cartoon_train/007121.jpg 353,60,459,167,0
+dataset/cartoon_train/007122.jpg 459,173,475,194,0 51,88,67,113,0 429,45,449,67,0
+dataset/cartoon_train/007123.jpg 183,186,445,334,0
+dataset/cartoon_train/007124.jpg 423,137,483,209,0
+dataset/cartoon_train/007125.jpg 157,185,220,274,0 455,102,509,187,0 465,216,521,285,0 530,65,579,220,0
+dataset/cartoon_train/007126.jpg 276,35,747,499,0
+dataset/cartoon_train/007127.jpg 341,133,475,263,0 162,149,340,290,0
+dataset/cartoon_train/007128.jpg 213,258,270,334,0 240,187,337,268,0
+dataset/cartoon_train/007129.jpg 392,153,602,388,0
+dataset/cartoon_train/007130.jpg 409,130,532,227,0
+dataset/cartoon_train/007131.jpg 289,115,562,356,0
+dataset/cartoon_train/007132.jpg 0,296,88,388,0 245,247,281,294,0 381,150,418,193,0
+dataset/cartoon_train/007133.jpg 78,8,266,186,0
+dataset/cartoon_train/007134.jpg 212,145,372,303,0
+dataset/cartoon_train/007135.jpg 344,220,357,245,0 200,318,226,340,0
+dataset/cartoon_train/007136.jpg 397,95,577,247,0
+dataset/cartoon_train/007137.jpg 533,101,671,459,0
+dataset/cartoon_train/007138.jpg 240,107,511,369,0
+dataset/cartoon_train/007139.jpg 102,67,190,189,0
+dataset/cartoon_train/007140.jpg 570,360,609,391,0
+dataset/cartoon_train/007141.jpg 340,56,573,318,0
+dataset/cartoon_train/007142.jpg 96,251,114,268,0 210,153,231,168,0 336,89,356,108,0
+dataset/cartoon_train/007143.jpg 613,291,633,320,0 404,128,472,215,0
+dataset/cartoon_train/007144.jpg 422,107,511,166,0 281,66,332,107,0 255,178,300,225,0 298,267,349,307,0
+dataset/cartoon_train/007145.jpg 58,64,122,123,0
+dataset/cartoon_train/007146.jpg 204,155,429,364,0
+dataset/cartoon_train/007147.jpg 603,101,750,358,0 194,1,414,250,0
+dataset/cartoon_train/007148.jpg 311,189,578,407,0
+dataset/cartoon_train/007149.jpg 846,445,878,473,0 796,445,836,473,0 408,293,460,340,0 322,259,394,321,0 238,267,293,322,0
+dataset/cartoon_train/007150.jpg 187,119,323,234,0
+dataset/cartoon_train/007151.jpg 407,71,654,413,0
+dataset/cartoon_train/007152.jpg 207,207,284,361,0 343,253,458,397,0
+dataset/cartoon_train/007153.jpg 198,180,429,409,0 522,331,541,354,0
+dataset/cartoon_train/007154.jpg 159,76,218,152,0
+dataset/cartoon_train/007155.jpg 187,94,443,313,0
+dataset/cartoon_train/007156.jpg 63,98,125,132,0 140,22,163,48,0 27,22,51,51,0 29,64,51,86,0
+dataset/cartoon_train/007157.jpg 321,168,495,322,0
+dataset/cartoon_train/007158.jpg 294,87,386,179,0
+dataset/cartoon_train/007159.jpg 499,327,527,360,0 474,289,499,324,0 402,289,427,325,0 444,346,464,380,0 392,357,422,390,0 340,343,376,388,0 353,304,379,341,0 345,264,363,299,0 308,267,346,313,0 300,305,325,348,0 228,309,271,357,0 269,235,301,274,0 231,250,265,294,0 189,274,223,315,0 202,208,244,245,0 156,177,187,223,0
+dataset/cartoon_train/007160.jpg 373,188,630,340,0
+dataset/cartoon_train/007161.jpg 99,225,237,328,0
+dataset/cartoon_train/007162.jpg 68,114,134,186,0
+dataset/cartoon_train/007163.jpg 233,205,304,272,0
+dataset/cartoon_train/007164.jpg 10,45,636,469,0
+dataset/cartoon_train/007165.jpg 252,235,408,405,0
+dataset/cartoon_train/007166.jpg 91,120,184,232,0 327,251,398,350,0 472,297,604,422,0
+dataset/cartoon_train/007167.jpg 319,278,340,327,0 651,351,694,391,0
+dataset/cartoon_train/007168.jpg 293,178,416,306,0 570,128,684,237,0
+dataset/cartoon_train/007169.jpg 436,219,511,302,0 130,288,199,380,0
+dataset/cartoon_train/007170.jpg 279,0,745,410,0
+dataset/cartoon_train/007171.jpg 224,131,356,341,0
+dataset/cartoon_train/007172.jpg 381,183,512,412,0
+dataset/cartoon_train/007173.jpg 277,171,543,424,0
+dataset/cartoon_train/007174.jpg 38,8,652,485,0
+dataset/cartoon_train/007175.jpg 481,183,612,258,0 226,200,382,300,0
+dataset/cartoon_train/007176.jpg 454,132,578,218,0
+dataset/cartoon_train/007177.jpg 291,153,396,276,0
+dataset/cartoon_train/007178.jpg 243,101,302,140,0
+dataset/cartoon_train/007179.jpg 466,180,658,370,0
+dataset/cartoon_train/007180.jpg 85,28,418,480,0 460,47,825,456,0
+dataset/cartoon_train/007181.jpg 350,313,381,355,0
+dataset/cartoon_train/007182.jpg 542,2,638,88,0
+dataset/cartoon_train/007183.jpg 370,126,497,234,0 286,125,338,173,0 507,120,560,165,0
+dataset/cartoon_train/007184.jpg 482,203,513,233,0
+dataset/cartoon_train/007185.jpg 184,184,294,303,0
+dataset/cartoon_train/007186.jpg 51,182,231,295,0 484,152,597,297,0
+dataset/cartoon_train/007187.jpg 416,123,538,322,0
+dataset/cartoon_train/007188.jpg 264,129,627,371,0
+dataset/cartoon_train/007189.jpg 118,110,197,215,0 218,283,288,351,0 292,130,369,195,0
+dataset/cartoon_train/007190.jpg 332,33,538,296,0 98,259,199,410,0
+dataset/cartoon_train/007191.jpg 196,118,451,410,0
+dataset/cartoon_train/007192.jpg 350,26,650,451,0
+dataset/cartoon_train/007193.jpg 338,197,464,371,0
+dataset/cartoon_train/007194.jpg 164,142,183,168,0 284,181,305,204,0 654,57,681,78,0
+dataset/cartoon_train/007195.jpg 208,102,282,177,0
+dataset/cartoon_train/007196.jpg 184,95,466,232,0
+dataset/cartoon_train/007197.jpg 303,70,363,132,0
+dataset/cartoon_train/007198.jpg 573,154,616,197,0 299,202,327,240,0
+dataset/cartoon_train/007199.jpg 633,211,722,302,0
+dataset/cartoon_train/007200.jpg 186,31,201,49,0
+dataset/cartoon_train/007201.jpg 579,128,600,161,0 478,146,506,178,0 341,108,370,136,0 124,109,159,145,0 14,121,52,156,0 62,88,101,128,0 98,511,172,590,0
+dataset/cartoon_train/007202.jpg 324,25,580,329,0 139,209,217,297,0 627,169,731,293,0
+dataset/cartoon_train/007203.jpg 168,84,234,140,0
+dataset/cartoon_train/007204.jpg 429,154,520,259,0 126,104,246,226,0
+dataset/cartoon_train/007205.jpg 51,335,87,370,0 177,34,201,60,0
+dataset/cartoon_train/007206.jpg 207,90,675,361,0
+dataset/cartoon_train/007207.jpg 359,231,472,350,0 61,92,175,289,0
+dataset/cartoon_train/007208.jpg 625,38,706,112,0 136,3,434,399,0
+dataset/cartoon_train/007209.jpg 449,373,501,410,0 466,422,485,439,0
+dataset/cartoon_train/007210.jpg 47,97,206,352,0
+dataset/cartoon_train/007211.jpg 421,204,517,355,0 228,216,305,364,0
+dataset/cartoon_train/007212.jpg 142,223,339,392,0
+dataset/cartoon_train/007213.jpg 150,144,163,176,0 682,129,699,162,0
+dataset/cartoon_train/007214.jpg 57,48,101,104,0
+dataset/cartoon_train/007215.jpg 301,8,623,455,0 169,32,222,96,0 87,63,111,97,0 110,274,242,455,0
+dataset/cartoon_train/007216.jpg 208,117,278,171,0
+dataset/cartoon_train/007217.jpg 198,147,309,255,0 385,79,416,108,0
+dataset/cartoon_train/007218.jpg 283,3,474,73,0 328,182,376,221,0 439,244,476,301,0
+dataset/cartoon_train/007219.jpg 343,61,837,480,0
+dataset/cartoon_train/007220.jpg 648,65,803,288,0 372,155,492,299,0 52,62,236,230,0
+dataset/cartoon_train/007221.jpg 239,181,317,264,0 8,228,164,356,0
+dataset/cartoon_train/007222.jpg 119,102,380,245,0
+dataset/cartoon_train/007223.jpg 216,125,416,324,0
+dataset/cartoon_train/007224.jpg 221,195,395,434,0 14,359,134,441,0 2,313,26,408,0 395,281,469,386,0 491,272,570,388,0 600,318,626,397,0 622,254,639,379,0
+dataset/cartoon_train/007225.jpg 326,39,542,319,0
+dataset/cartoon_train/007226.jpg 432,152,505,248,0
+dataset/cartoon_train/007227.jpg 388,255,491,377,0 193,281,339,417,0
+dataset/cartoon_train/007228.jpg 617,157,666,218,0 708,226,785,375,0 156,156,206,199,0 10,208,105,394,0
+dataset/cartoon_train/007229.jpg 334,168,454,234,0 399,40,466,100,0 209,247,269,301,0 58,450,109,498,0 591,275,631,316,0 540,365,593,409,0 654,380,707,421,0 620,446,678,489,0 413,411,492,455,0 455,471,520,512,0 371,474,432,512,0 185,404,225,448,0 215,372,262,408,0
+dataset/cartoon_train/007230.jpg 21,41,64,79,0 283,24,310,51,0 285,340,312,367,0 29,356,61,386,0
+dataset/cartoon_train/007231.jpg 382,142,519,222,0
+dataset/cartoon_train/007232.jpg 225,36,254,65,0 56,92,105,141,0
+dataset/cartoon_train/007233.jpg 165,137,455,422,0
+dataset/cartoon_train/007234.jpg 412,239,426,262,0 250,278,269,301,0
+dataset/cartoon_train/007235.jpg 446,152,544,338,0
+dataset/cartoon_train/007236.jpg 77,68,153,125,0
+dataset/cartoon_train/007237.jpg 154,159,242,251,0
+dataset/cartoon_train/007238.jpg 2,129,29,184,0 83,88,229,226,0
+dataset/cartoon_train/007239.jpg 9,10,880,487,0
+dataset/cartoon_train/007240.jpg 216,81,543,427,0
+dataset/cartoon_train/007241.jpg 316,293,345,319,0
+dataset/cartoon_train/007242.jpg 252,111,307,190,0 517,49,540,81,0 679,176,720,245,0
+dataset/cartoon_train/007243.jpg 130,217,195,319,0
+dataset/cartoon_train/007244.jpg 254,73,618,464,0
+dataset/cartoon_train/007245.jpg 190,46,402,273,0
+dataset/cartoon_train/007246.jpg 497,268,549,323,0 5,149,170,390,0
+dataset/cartoon_train/007247.jpg 551,63,623,161,0
+dataset/cartoon_train/007248.jpg 247,153,388,321,0
+dataset/cartoon_train/007249.jpg 212,105,407,379,0
+dataset/cartoon_train/007250.jpg 406,226,452,267,0
+dataset/cartoon_train/007251.jpg 463,266,498,320,0
+dataset/cartoon_train/007252.jpg 37,186,159,316,0 282,68,389,290,0
+dataset/cartoon_train/007253.jpg 584,111,684,218,0 332,356,410,430,0
+dataset/cartoon_train/007254.jpg 338,88,401,176,0
+dataset/cartoon_train/007255.jpg 269,88,312,141,0 428,104,462,155,0 356,112,383,148,0
+dataset/cartoon_train/007256.jpg 436,115,600,287,0
+dataset/cartoon_train/007257.jpg 397,54,478,181,0 262,87,305,151,0 81,204,160,272,0
+dataset/cartoon_train/007258.jpg 13,282,56,306,0 1,332,24,358,0 33,345,69,372,0 142,336,182,366,0 216,317,260,352,0 276,320,317,360,0 321,352,342,370,0 349,361,370,375,0 356,319,395,342,0 379,182,523,290,0
+dataset/cartoon_train/007259.jpg 228,1,607,223,0
+dataset/cartoon_train/007260.jpg 306,175,494,337,0
+dataset/cartoon_train/007261.jpg 545,81,627,191,0 66,144,129,239,0
+dataset/cartoon_train/007262.jpg 197,113,488,288,0
+dataset/cartoon_train/007263.jpg 385,104,565,364,0
+dataset/cartoon_train/007264.jpg 510,91,562,177,0
+dataset/cartoon_train/007265.jpg 219,137,302,213,0
+dataset/cartoon_train/007266.jpg 226,186,388,333,0
+dataset/cartoon_train/007267.jpg 626,1,703,52,0 579,281,633,353,0 446,72,475,99,0 435,193,462,216,0 419,223,446,244,0 346,252,371,277,0 322,131,350,155,0 195,131,233,180,0 20,193,67,240,0
+dataset/cartoon_train/007268.jpg 136,16,232,128,0 218,272,256,435,0 406,5,456,153,0
+dataset/cartoon_train/007269.jpg 420,360,736,503,0
+dataset/cartoon_train/007270.jpg 387,29,735,421,0
+dataset/cartoon_train/007271.jpg 297,86,538,339,0
+dataset/cartoon_train/007272.jpg 327,122,441,273,0
+dataset/cartoon_train/007273.jpg 529,133,602,223,0
+dataset/cartoon_train/007274.jpg 390,175,486,258,0
+dataset/cartoon_train/007275.jpg 238,75,376,281,0
+dataset/cartoon_train/007276.jpg 321,106,394,161,0
+dataset/cartoon_train/007277.jpg 47,53,113,120,0
+dataset/cartoon_train/007278.jpg 531,150,565,184,0
+dataset/cartoon_train/007279.jpg 3,1,843,476,0
+dataset/cartoon_train/007280.jpg 156,306,449,443,0
+dataset/cartoon_train/007281.jpg 180,137,401,398,0
+dataset/cartoon_train/007282.jpg 210,87,269,155,0 314,299,415,410,0 188,177,272,285,0 110,277,193,384,0
+dataset/cartoon_train/007283.jpg 160,120,208,161,0 180,219,195,241,0 116,202,134,220,0
+dataset/cartoon_train/007284.jpg 317,218,377,326,0
+dataset/cartoon_train/007285.jpg 213,166,272,247,0 327,364,400,445,0
+dataset/cartoon_train/007286.jpg 358,269,409,339,0
+dataset/cartoon_train/007287.jpg 564,311,699,447,0 399,213,582,387,0 180,195,330,366,0 419,64,489,120,0
+dataset/cartoon_train/007288.jpg 375,136,416,195,0 543,168,587,219,0 691,84,739,142,0
+dataset/cartoon_train/007289.jpg 398,225,534,352,0 632,237,691,296,0 282,336,348,463,0
+dataset/cartoon_train/007290.jpg 408,116,567,273,0
+dataset/cartoon_train/007291.jpg 362,115,502,287,0
+dataset/cartoon_train/007292.jpg 157,162,436,405,0
+dataset/cartoon_train/007293.jpg 35,343,75,379,0 848,295,877,338,0
+dataset/cartoon_train/007294.jpg 262,8,627,503,0
+dataset/cartoon_train/007295.jpg 221,171,463,311,0
+dataset/cartoon_train/007296.jpg 360,193,520,321,0
+dataset/cartoon_train/007297.jpg 139,67,217,129,0 63,42,161,118,0 27,146,55,171,0
+dataset/cartoon_train/007298.jpg 93,249,781,504,0
+dataset/cartoon_train/007299.jpg 217,167,259,207,0
+dataset/cartoon_train/007300.jpg 185,12,258,101,0 206,219,257,280,0
+dataset/cartoon_train/007301.jpg 154,191,309,286,0
+dataset/cartoon_train/007302.jpg 393,146,544,270,0
+dataset/cartoon_train/007303.jpg 274,230,363,322,0
+dataset/cartoon_train/007304.jpg 246,156,295,216,0
+dataset/cartoon_train/007305.jpg 105,116,317,294,0 522,109,731,280,0
+dataset/cartoon_train/007306.jpg 314,30,591,344,0
+dataset/cartoon_train/007307.jpg 257,18,437,241,0
+dataset/cartoon_train/007308.jpg 480,119,571,216,0 287,65,343,120,0
+dataset/cartoon_train/007309.jpg 182,61,811,480,0
+dataset/cartoon_train/007310.jpg 60,89,212,209,0
+dataset/cartoon_train/007311.jpg 202,9,227,31,0 170,11,193,31,0 136,12,161,30,0 105,13,129,31,0 73,13,93,30,0 234,46,260,64,0 202,46,227,64,0 171,46,192,62,0 137,40,160,61,0 104,41,127,64,0 71,42,94,63,0 38,43,59,63,0 270,80,295,97,0 237,75,259,96,0 205,80,227,96,0 73,78,99,98,0 36,80,59,96,0 4,75,24,97,0 4,113,25,131,0 37,114,59,132,0 139,112,160,131,0 238,113,259,130,0 270,113,291,130,0 272,143,291,166,0 239,147,259,166,0 169,141,196,162,0 137,143,158,164,0 102,143,128,164,0 37,145,57,164,0 4,144,27,163,0 3,177,26,198,0 38,175,60,197,0 69,204,93,229,0 35,212,60,231,0 5,209,28,232,0 238,175,259,197,0 137,181,162,200,0 270,181,293,196,0 270,215,290,231,0 237,215,259,231,0 203,211,226,227,0 200,247,228,265,0 171,244,195,266,0 134,245,162,264,0 106,244,126,263,0 72,243,94,261,0 38,242,59,263,0 70,280,92,299,0 105,279,124,299,0 139,277,158,297,0 172,278,192,297,0 204,280,227,296,0
+dataset/cartoon_train/007312.jpg 87,86,178,204,0
+dataset/cartoon_train/007313.jpg 474,81,693,278,0
+dataset/cartoon_train/007314.jpg 279,157,339,320,0
+dataset/cartoon_train/007315.jpg 81,7,274,219,0
+dataset/cartoon_train/007316.jpg 326,152,515,291,0
+dataset/cartoon_train/007317.jpg 384,242,473,302,0
+dataset/cartoon_train/007318.jpg 440,241,456,258,0
+dataset/cartoon_train/007319.jpg 231,164,390,284,0
+dataset/cartoon_train/007320.jpg 277,31,554,236,0 282,275,537,484,0
+dataset/cartoon_train/007321.jpg 386,502,432,553,0 425,245,479,299,0 429,65,479,133,0 417,405,466,456,0 181,465,257,530,0 18,480,72,540,0 201,191,285,286,0 65,305,108,360,0 0,182,57,273,0 16,7,85,70,0
+dataset/cartoon_train/007322.jpg 335,60,676,373,0
+dataset/cartoon_train/007323.jpg 468,45,566,152,0 330,40,435,140,0
+dataset/cartoon_train/007324.jpg 214,266,229,291,0
+dataset/cartoon_train/007325.jpg 354,136,419,205,0
+dataset/cartoon_train/007326.jpg 426,185,551,377,0
+dataset/cartoon_train/007327.jpg 193,101,343,217,0
+dataset/cartoon_train/007328.jpg 618,248,785,395,0
+dataset/cartoon_train/007329.jpg 211,215,480,378,0
+dataset/cartoon_train/007330.jpg 422,160,482,234,0
+dataset/cartoon_train/007331.jpg 454,218,512,274,0 175,265,233,329,0
+dataset/cartoon_train/007332.jpg 319,203,484,360,0
+dataset/cartoon_train/007333.jpg 183,120,230,180,0 167,148,214,194,0
+dataset/cartoon_train/007334.jpg 611,61,724,180,0
+dataset/cartoon_train/007335.jpg 170,13,413,290,0
+dataset/cartoon_train/007336.jpg 629,139,687,193,0
+dataset/cartoon_train/007337.jpg 385,154,565,315,0
+dataset/cartoon_train/007338.jpg 55,126,85,155,0 162,185,183,212,0 127,182,146,208,0 120,239,136,261,0
+dataset/cartoon_train/007339.jpg 176,121,286,202,0 107,378,141,404,0
+dataset/cartoon_train/007340.jpg 51,104,742,469,0
+dataset/cartoon_train/007341.jpg 476,267,538,324,0 392,325,440,370,0 360,136,428,223,0 212,241,278,313,0
+dataset/cartoon_train/007342.jpg 256,241,296,310,0
+dataset/cartoon_train/007343.jpg 359,238,381,268,0 514,164,534,193,0 122,361,164,409,0
+dataset/cartoon_train/007344.jpg 491,178,622,273,0 679,150,735,194,0 236,187,381,288,0
+dataset/cartoon_train/007345.jpg 204,112,327,250,0
+dataset/cartoon_train/007346.jpg 281,173,371,271,0
+dataset/cartoon_train/007347.jpg 201,284,286,396,0
+dataset/cartoon_train/007348.jpg 540,134,578,189,0
+dataset/cartoon_train/007349.jpg 488,216,511,235,0 120,292,160,320,0
+dataset/cartoon_train/007350.jpg 243,115,321,185,0
+dataset/cartoon_train/007351.jpg 283,94,351,145,0
+dataset/cartoon_train/007352.jpg 39,31,59,44,0 155,101,172,123,0 72,64,119,104,0 31,106,54,123,0
+dataset/cartoon_train/007353.jpg 573,274,606,305,0 519,274,555,306,0 468,272,496,302,0 336,191,411,253,0 106,278,141,307,0 10,275,43,306,0 203,43,234,70,0
+dataset/cartoon_train/007354.jpg 113,275,207,419,0 181,182,234,230,0 254,294,377,395,0 441,314,576,414,0
+dataset/cartoon_train/007355.jpg 45,216,205,399,0 310,224,407,335,0 456,303,582,418,0 475,136,606,280,0
+dataset/cartoon_train/007356.jpg 417,0,538,172,0 75,130,199,249,0
+dataset/cartoon_train/007357.jpg 423,77,553,219,0
+dataset/cartoon_train/007358.jpg 334,93,480,270,0
+dataset/cartoon_train/007359.jpg 240,77,549,426,0
+dataset/cartoon_train/007360.jpg 81,148,137,253,0
+dataset/cartoon_train/007361.jpg 419,140,594,379,0
+dataset/cartoon_train/007362.jpg 284,98,418,356,0
+dataset/cartoon_train/007363.jpg 448,140,602,414,0
+dataset/cartoon_train/007364.jpg 348,253,380,287,0
+dataset/cartoon_train/007365.jpg 92,140,189,243,0
+dataset/cartoon_train/007366.jpg 306,8,661,253,0
+dataset/cartoon_train/007367.jpg 547,226,590,280,0
+dataset/cartoon_train/007368.jpg 481,209,614,347,0
+dataset/cartoon_train/007369.jpg 283,224,304,263,0
+dataset/cartoon_train/007370.jpg 1,4,99,163,0
+dataset/cartoon_train/007371.jpg 428,109,609,306,0
+dataset/cartoon_train/007372.jpg 345,248,416,320,0
+dataset/cartoon_train/007373.jpg 250,152,377,293,0 1,209,72,337,0
+dataset/cartoon_train/007374.jpg 405,220,513,393,0
+dataset/cartoon_train/007375.jpg 92,145,131,193,0 150,92,214,156,0 339,149,368,187,0 404,149,445,187,0 283,107,306,137,0
+dataset/cartoon_train/007376.jpg 332,159,590,362,0
+dataset/cartoon_train/007377.jpg 162,69,342,362,0 366,69,632,383,0
+dataset/cartoon_train/007378.jpg 759,211,887,366,0
+dataset/cartoon_train/007379.jpg 268,154,406,270,0
+dataset/cartoon_train/007380.jpg 470,268,486,290,0
+dataset/cartoon_train/007381.jpg 158,201,279,398,0 364,262,531,399,0
+dataset/cartoon_train/007382.jpg 360,132,541,295,0
+dataset/cartoon_train/007383.jpg 116,66,322,416,0 500,153,572,247,0
+dataset/cartoon_train/007384.jpg 42,97,134,187,0
+dataset/cartoon_train/007385.jpg 578,260,637,345,0
+dataset/cartoon_train/007386.jpg 448,141,587,274,0
+dataset/cartoon_train/007387.jpg 333,148,551,340,0
+dataset/cartoon_train/007388.jpg 368,155,843,496,0 60,137,407,497,0
+dataset/cartoon_train/007389.jpg 289,96,461,366,0
+dataset/cartoon_train/007390.jpg 297,116,612,400,0
+dataset/cartoon_train/007391.jpg 824,26,890,91,0 765,452,830,495,0 599,383,631,412,0 180,353,234,396,0 24,217,81,277,0 169,46,232,92,0
+dataset/cartoon_train/007392.jpg 280,183,319,233,0 204,262,337,377,0 1,81,23,116,0
+dataset/cartoon_train/007393.jpg 466,90,560,194,0 265,177,370,267,0 154,227,215,312,0
+dataset/cartoon_train/007394.jpg 185,173,368,424,0
+dataset/cartoon_train/007395.jpg 393,179,542,355,0
+dataset/cartoon_train/007396.jpg 243,108,314,205,0
+dataset/cartoon_train/007397.jpg 196,50,554,392,0
+dataset/cartoon_train/007398.jpg 539,254,636,357,0 295,232,316,254,0
+dataset/cartoon_train/007399.jpg 623,100,740,243,0
+dataset/cartoon_train/007400.jpg 217,247,276,296,0 421,125,510,230,0
+dataset/cartoon_train/007401.jpg 215,82,251,116,0 148,90,181,128,0 336,98,372,140,0
+dataset/cartoon_train/007402.jpg 403,109,448,158,0
+dataset/cartoon_train/007403.jpg 158,254,208,299,0 98,312,117,339,0 1,176,25,244,0
+dataset/cartoon_train/007404.jpg 411,51,560,218,0
+dataset/cartoon_train/007405.jpg 477,195,562,294,0
+dataset/cartoon_train/007406.jpg 441,120,658,338,0 120,150,366,315,0 24,204,100,260,0
+dataset/cartoon_train/007407.jpg 327,0,413,103,0
+dataset/cartoon_train/007408.jpg 327,54,589,324,0 723,11,846,158,0 0,0,107,189,0
+dataset/cartoon_train/007409.jpg 189,162,230,215,0
+dataset/cartoon_train/007410.jpg 175,200,381,434,0
+dataset/cartoon_train/007411.jpg 95,64,156,122,0
+dataset/cartoon_train/007412.jpg 601,77,654,127,0 255,320,577,460,0 177,65,230,119,0
+dataset/cartoon_train/007413.jpg 187,189,493,458,0
+dataset/cartoon_train/007414.jpg 578,509,666,585,0 359,601,448,674,0 245,710,278,736,0 586,319,724,425,0 329,375,439,479,0 236,171,319,258,0
+dataset/cartoon_train/007415.jpg 367,299,474,411,0
+dataset/cartoon_train/007416.jpg 213,133,386,275,0 479,359,527,396,0
+dataset/cartoon_train/007417.jpg 290,37,511,276,0
+dataset/cartoon_train/007418.jpg 413,140,471,212,0 649,131,715,198,0
+dataset/cartoon_train/007419.jpg 498,225,726,397,0 165,260,372,427,0 2,237,45,373,0
+dataset/cartoon_train/007420.jpg 479,205,528,256,0 327,199,392,261,0
+dataset/cartoon_train/007421.jpg 396,221,452,274,0
+dataset/cartoon_train/007422.jpg 0,249,175,499,0 109,200,158,258,0 315,164,389,249,0 587,209,645,290,0
+dataset/cartoon_train/007423.jpg 360,150,531,419,0 246,312,372,444,0 82,184,264,420,0 1,359,76,473,0
+dataset/cartoon_train/007424.jpg 179,25,579,454,0
+dataset/cartoon_train/007425.jpg 579,163,689,291,0 446,193,539,284,0 193,138,332,252,0
+dataset/cartoon_train/007426.jpg 653,314,756,457,0 239,26,393,167,0
+dataset/cartoon_train/007427.jpg 116,122,288,354,0
+dataset/cartoon_train/007428.jpg 411,248,431,268,0
+dataset/cartoon_train/007429.jpg 285,185,358,243,0
+dataset/cartoon_train/007430.jpg 258,186,323,268,0
+dataset/cartoon_train/007431.jpg 374,157,636,420,0
+dataset/cartoon_train/007432.jpg 309,134,398,261,0
+dataset/cartoon_train/007433.jpg 311,306,331,337,0
+dataset/cartoon_train/007434.jpg 70,86,103,118,0
+dataset/cartoon_train/007435.jpg 355,267,451,352,0
+dataset/cartoon_train/007436.jpg 274,85,292,113,0
+dataset/cartoon_train/007437.jpg 80,264,156,343,0
+dataset/cartoon_train/007438.jpg 48,66,145,152,0
+dataset/cartoon_train/007439.jpg 239,164,325,257,0 550,209,657,289,0
+dataset/cartoon_train/007440.jpg 215,149,446,343,0
+dataset/cartoon_train/007441.jpg 437,71,585,329,0
+dataset/cartoon_train/007442.jpg 599,150,732,319,0
+dataset/cartoon_train/007443.jpg 272,119,400,272,0
+dataset/cartoon_train/007444.jpg 8,1,130,115,0
+dataset/cartoon_train/007445.jpg 677,209,797,345,0 482,258,607,394,0 238,91,375,277,0
+dataset/cartoon_train/007446.jpg 353,132,495,287,0
+dataset/cartoon_train/007447.jpg 299,173,342,226,0 382,200,408,238,0
+dataset/cartoon_train/007448.jpg 637,81,679,125,0
+dataset/cartoon_train/007449.jpg 232,23,312,102,0
+dataset/cartoon_train/007450.jpg 116,121,374,436,0
+dataset/cartoon_train/007451.jpg 223,145,540,442,0
+dataset/cartoon_train/007452.jpg 1708,1313,1848,1408,0 1525,1345,1676,1465,0 1346,1216,1495,1343,0 1080,456,1385,764,0 381,314,622,476,0 173,384,342,580,0
+dataset/cartoon_train/007453.jpg 433,211,473,250,0 373,134,418,186,0 311,179,335,218,0
+dataset/cartoon_train/007454.jpg 393,247,505,357,0 182,118,337,266,0 514,305,613,395,0
+dataset/cartoon_train/007455.jpg 382,120,550,328,0
+dataset/cartoon_train/007456.jpg 524,207,847,477,0
+dataset/cartoon_train/007457.jpg 295,205,343,233,0 183,153,225,195,0
+dataset/cartoon_train/007458.jpg 364,202,437,292,0
+dataset/cartoon_train/007459.jpg 180,95,388,292,0
+dataset/cartoon_train/007460.jpg 350,129,373,180,0 287,125,334,172,0 187,65,258,147,0 207,181,242,228,0 132,147,158,197,0
+dataset/cartoon_train/007461.jpg 393,0,545,73,0
+dataset/cartoon_train/007462.jpg 416,407,455,451,0
+dataset/cartoon_train/007463.jpg 193,200,296,334,0
+dataset/cartoon_train/007464.jpg 296,154,420,352,0
+dataset/cartoon_train/007465.jpg 85,32,129,99,0 592,187,619,213,0
+dataset/cartoon_train/007466.jpg 508,184,532,207,0
+dataset/cartoon_train/007467.jpg 231,169,259,200,0 60,187,135,270,0
+dataset/cartoon_train/007468.jpg 148,206,453,415,0
+dataset/cartoon_train/007469.jpg 74,35,748,476,0
+dataset/cartoon_train/007470.jpg 381,135,497,263,0
+dataset/cartoon_train/007471.jpg 572,170,680,280,0
+dataset/cartoon_train/007472.jpg 127,247,202,356,0 227,198,285,283,0
+dataset/cartoon_train/007473.jpg 105,113,215,238,0
+dataset/cartoon_train/007474.jpg 278,179,319,232,0 211,103,233,129,0 106,113,134,146,0 149,205,207,272,0 24,260,75,355,0
+dataset/cartoon_train/007475.jpg 154,61,301,220,0
+dataset/cartoon_train/007476.jpg 599,252,617,268,0 466,226,492,253,0 412,212,430,236,0 285,245,329,283,0 166,186,266,270,0 159,279,193,310,0
+dataset/cartoon_train/007477.jpg 188,51,376,285,0
+dataset/cartoon_train/007478.jpg 514,153,578,213,0 356,197,436,273,0 204,268,359,395,0 99,149,181,277,0 321,411,503,579,0
+dataset/cartoon_train/007479.jpg 177,26,625,431,0
+dataset/cartoon_train/007480.jpg 577,205,676,384,0 214,123,330,278,0
+dataset/cartoon_train/007481.jpg 213,575,251,609,0
+dataset/cartoon_train/007482.jpg 470,56,554,143,0
+dataset/cartoon_train/007483.jpg 314,243,400,325,0 443,307,533,436,0
+dataset/cartoon_train/007484.jpg 3,1,893,502,0
+dataset/cartoon_train/007485.jpg 301,13,533,259,0
+dataset/cartoon_train/007486.jpg 222,203,281,251,0 300,87,320,111,0 158,117,179,139,0 25,97,53,118,0
+dataset/cartoon_train/007487.jpg 452,1,720,375,0
+dataset/cartoon_train/007488.jpg 0,0,740,546,0
+dataset/cartoon_train/007489.jpg 286,69,364,147,0 658,112,695,157,0
+dataset/cartoon_train/007490.jpg 210,48,228,70,0 175,49,194,70,0 146,50,166,70,0 115,51,134,70,0 83,50,103,70,0 235,134,256,158,0 158,137,178,158,0 82,136,101,158,0 58,136,77,157,0
+dataset/cartoon_train/007491.jpg 709,244,763,293,0 804,263,855,311,0 543,220,608,300,0
+dataset/cartoon_train/007492.jpg 662,205,727,294,0
+dataset/cartoon_train/007493.jpg 402,75,636,475,0
+dataset/cartoon_train/007494.jpg 320,91,353,137,0
+dataset/cartoon_train/007495.jpg 500,176,524,199,0
+dataset/cartoon_train/007496.jpg 245,0,312,46,0
+dataset/cartoon_train/007497.jpg 167,20,203,63,0
+dataset/cartoon_train/007498.jpg 273,350,560,641,0
+dataset/cartoon_train/007499.jpg 271,11,544,477,0
+dataset/cartoon_train/007500.jpg 297,156,483,296,0
+dataset/cartoon_train/007501.jpg 237,314,322,399,0
+dataset/cartoon_train/007502.jpg 358,444,441,551,0 59,160,138,247,0
+dataset/cartoon_train/007503.jpg 232,275,336,376,0
+dataset/cartoon_train/007504.jpg 357,120,528,289,0 109,95,300,296,0
+dataset/cartoon_train/007505.jpg 289,166,361,242,0 427,250,475,303,0
+dataset/cartoon_train/007506.jpg 71,9,107,62,0
+dataset/cartoon_train/007507.jpg 352,88,455,211,0
+dataset/cartoon_train/007508.jpg 63,70,211,195,0 262,88,364,282,0 438,44,563,195,0 141,287,274,395,0 311,264,456,395,0
+dataset/cartoon_train/007509.jpg 275,258,390,376,0
+dataset/cartoon_train/007510.jpg 300,144,362,206,0 14,127,43,182,0 39,92,62,120,0 60,145,77,162,0 382,479,430,512,0
+dataset/cartoon_train/007511.jpg 473,118,667,275,0
+dataset/cartoon_train/007512.jpg 413,95,455,155,0
+dataset/cartoon_train/007513.jpg 118,33,225,128,0
+dataset/cartoon_train/007514.jpg 95,84,154,138,0
+dataset/cartoon_train/007515.jpg 136,106,288,227,0
+dataset/cartoon_train/007516.jpg 459,55,844,474,0
+dataset/cartoon_train/007517.jpg 253,2,635,387,0
+dataset/cartoon_train/007518.jpg 211,113,284,204,0 375,245,428,310,0
+dataset/cartoon_train/007519.jpg 267,147,394,305,0
+dataset/cartoon_train/007520.jpg 316,338,378,411,0 258,428,317,491,0 168,297,195,320,0
+dataset/cartoon_train/007521.jpg 359,187,392,222,0 450,175,524,251,0
+dataset/cartoon_train/007522.jpg 467,202,510,236,0
+dataset/cartoon_train/007523.jpg 260,292,440,403,0
+dataset/cartoon_train/007524.jpg 132,282,175,339,0
+dataset/cartoon_train/007525.jpg 550,71,748,287,0
+dataset/cartoon_train/007526.jpg 475,6,570,96,0 237,2,348,76,0 129,85,185,138,0
+dataset/cartoon_train/007527.jpg 535,125,570,156,0 547,56,577,83,0 479,168,519,207,0 421,187,457,216,0 414,128,442,157,0 372,181,401,210,0 368,251,409,284,0 296,253,331,285,0 318,295,347,326,0 228,236,258,262,0
+dataset/cartoon_train/007528.jpg 874,408,899,471,0 749,366,781,408,0 430,169,491,280,0
+dataset/cartoon_train/007529.jpg 260,263,318,356,0 65,218,113,270,0 85,84,121,144,0 194,65,222,104,0 210,143,256,194,0 335,90,372,149,0 378,210,424,265,0 540,281,621,388,0 533,164,568,215,0 488,77,527,133,0 405,58,430,85,0
+dataset/cartoon_train/007530.jpg 781,108,802,135,0
+dataset/cartoon_train/007531.jpg 468,134,667,373,0
+dataset/cartoon_train/007532.jpg 351,150,451,210,0 700,246,737,280,0 215,161,240,181,0 45,206,68,235,0 89,281,124,330,0 541,153,563,186,0
+dataset/cartoon_train/007533.jpg 320,94,426,283,0
+dataset/cartoon_train/007534.jpg 106,56,128,85,0
+dataset/cartoon_train/007535.jpg 106,124,316,341,0
+dataset/cartoon_train/007536.jpg 224,169,275,204,0 467,73,512,148,0 191,306,259,361,0
+dataset/cartoon_train/007537.jpg 160,42,467,427,0
+dataset/cartoon_train/007538.jpg 435,201,582,339,0 294,214,456,359,0 195,190,325,349,0
+dataset/cartoon_train/007539.jpg 296,52,384,160,0
+dataset/cartoon_train/007540.jpg 320,205,366,296,0
+dataset/cartoon_train/007541.jpg 327,156,427,307,0 37,301,73,343,0
+dataset/cartoon_train/007542.jpg 164,113,369,262,0
+dataset/cartoon_train/007543.jpg 374,243,439,374,0
+dataset/cartoon_train/007544.jpg 240,161,393,276,0
+dataset/cartoon_train/007545.jpg 850,433,893,465,0 808,433,849,466,0 515,121,618,205,0 114,243,266,339,0 262,395,304,442,0
+dataset/cartoon_train/007546.jpg 574,24,608,72,0 352,117,487,255,0 45,36,99,100,0 183,227,322,352,0
+dataset/cartoon_train/007547.jpg 109,9,236,189,0
+dataset/cartoon_train/007548.jpg 231,169,416,331,0
+dataset/cartoon_train/007549.jpg 165,109,232,172,0 179,177,241,240,0
+dataset/cartoon_train/007550.jpg 460,56,599,182,0
+dataset/cartoon_train/007551.jpg 215,77,365,230,0
+dataset/cartoon_train/007552.jpg 193,162,388,273,0 267,282,353,384,0
+dataset/cartoon_train/007553.jpg 217,242,312,387,0
+dataset/cartoon_train/007554.jpg 357,180,413,235,0
+dataset/cartoon_train/007555.jpg 574,143,642,202,0
+dataset/cartoon_train/007556.jpg 117,172,188,281,0
+dataset/cartoon_train/007557.jpg 491,342,523,366,0
+dataset/cartoon_train/007558.jpg 257,213,362,309,0 212,371,265,400,0
+dataset/cartoon_train/007559.jpg 508,124,736,408,0
+dataset/cartoon_train/007560.jpg 195,232,240,287,0 361,190,425,250,0
+dataset/cartoon_train/007561.jpg 520,175,548,241,0 71,146,143,236,0
+dataset/cartoon_train/007562.jpg 424,314,555,393,0
+dataset/cartoon_train/007563.jpg 590,177,651,242,0
+dataset/cartoon_train/007564.jpg 326,82,459,352,0
+dataset/cartoon_train/007565.jpg 304,153,488,325,0
+dataset/cartoon_train/007566.jpg 288,151,365,240,0
+dataset/cartoon_train/007567.jpg 248,45,299,91,0
+dataset/cartoon_train/007568.jpg 286,139,467,334,0 467,132,637,349,0
+dataset/cartoon_train/007569.jpg 246,166,368,293,0
+dataset/cartoon_train/007570.jpg 267,47,309,83,0 375,90,410,133,0 259,159,292,205,0 846,445,887,486,0
+dataset/cartoon_train/007571.jpg 559,57,623,148,0
+dataset/cartoon_train/007572.jpg 143,45,192,89,0 61,85,91,120,0 173,181,190,201,0
+dataset/cartoon_train/007573.jpg 420,186,449,230,0
+dataset/cartoon_train/007574.jpg 277,88,405,239,0
+dataset/cartoon_train/007575.jpg 504,200,674,382,0 399,193,507,300,0
+dataset/cartoon_train/007576.jpg 577,223,672,314,0 433,307,523,390,0 276,314,372,391,0 143,349,232,419,0
+dataset/cartoon_train/007577.jpg 271,111,598,495,0
+dataset/cartoon_train/007578.jpg 495,76,629,236,0
+dataset/cartoon_train/007579.jpg 220,5,648,459,0
+dataset/cartoon_train/007580.jpg 284,135,581,468,0
+dataset/cartoon_train/007581.jpg 303,6,845,479,0
+dataset/cartoon_train/007582.jpg 576,92,635,201,0 236,106,288,229,0
+dataset/cartoon_train/007583.jpg 306,20,438,220,0 15,181,75,229,0
+dataset/cartoon_train/007584.jpg 338,140,558,390,0
+dataset/cartoon_train/007585.jpg 358,90,538,274,0
+dataset/cartoon_train/007586.jpg 229,105,269,143,0
+dataset/cartoon_train/007587.jpg 500,152,590,280,0
+dataset/cartoon_train/007588.jpg 177,321,647,469,0
+dataset/cartoon_train/007589.jpg 145,73,335,293,0 402,244,478,363,0
+dataset/cartoon_train/007590.jpg 165,92,183,109,0
+dataset/cartoon_train/007591.jpg 124,183,223,321,0
+dataset/cartoon_train/007592.jpg 98,64,170,138,0
+dataset/cartoon_train/007593.jpg 452,157,565,289,0
+dataset/cartoon_train/007594.jpg 572,103,699,260,0 158,85,269,233,0
+dataset/cartoon_train/007595.jpg 58,83,302,226,0 504,368,589,439,0
+dataset/cartoon_train/007596.jpg 488,124,634,241,0
+dataset/cartoon_train/007597.jpg 161,98,319,248,0
+dataset/cartoon_train/007598.jpg 313,285,358,337,0
+dataset/cartoon_train/007599.jpg 283,113,525,394,0
+dataset/cartoon_train/007600.jpg 687,44,779,160,0
+dataset/cartoon_train/007601.jpg 338,178,515,355,0
+dataset/cartoon_train/007602.jpg 671,93,727,168,0 284,112,318,169,0
+dataset/cartoon_train/007603.jpg 387,128,582,480,0 612,163,651,199,0 798,142,817,161,0 709,227,728,247,0 742,385,761,403,0
+dataset/cartoon_train/007604.jpg 198,58,525,424,0
+dataset/cartoon_train/007605.jpg 505,163,538,195,0 408,168,439,200,0 315,170,341,208,0 406,271,436,301,0
+dataset/cartoon_train/007606.jpg 1,3,344,397,0
+dataset/cartoon_train/007607.jpg 271,80,354,162,0 156,217,219,291,0 456,244,510,325,0
+dataset/cartoon_train/007608.jpg 390,206,463,256,0
+dataset/cartoon_train/007609.jpg 161,67,318,211,0 587,34,802,224,0
+dataset/cartoon_train/007610.jpg 14,306,253,477,0
+dataset/cartoon_train/007611.jpg 354,79,619,341,0
+dataset/cartoon_train/007612.jpg 399,49,527,201,0
+dataset/cartoon_train/007613.jpg 312,170,460,333,0
+dataset/cartoon_train/007614.jpg 316,146,579,364,0
+dataset/cartoon_train/007615.jpg 131,98,252,211,0 371,101,477,221,0 332,208,430,299,0 180,213,264,286,0
+dataset/cartoon_train/007616.jpg 435,186,499,322,0
+dataset/cartoon_train/007617.jpg 305,26,554,429,0
+dataset/cartoon_train/007618.jpg 279,162,384,299,0
+dataset/cartoon_train/007619.jpg 287,100,364,171,0
+dataset/cartoon_train/007620.jpg 173,48,513,378,0
+dataset/cartoon_train/007621.jpg 137,219,155,250,0
+dataset/cartoon_train/007622.jpg 122,112,174,161,0 90,147,119,184,0 154,205,194,238,0 200,210,235,238,0 208,133,269,180,0 269,184,310,220,0
+dataset/cartoon_train/007623.jpg 190,94,295,208,0 566,198,625,267,0 589,124,613,150,0 642,216,699,282,0 499,242,569,296,0
+dataset/cartoon_train/007624.jpg 240,137,256,155,0
+dataset/cartoon_train/007625.jpg 497,99,539,131,0 367,103,411,132,0 245,104,293,131,0 135,102,173,130,0 503,207,540,236,0 500,83,538,104,0 370,85,410,106,0 248,86,294,111,0 137,86,169,109,0 128,210,174,236,0 133,188,169,213,0 248,212,287,237,0 258,171,280,199,0 373,203,415,236,0 372,178,414,204,0 503,186,544,210,0 503,305,550,334,0 373,305,420,328,0 249,312,291,335,0 138,310,181,334,0 139,289,176,311,0 258,286,286,307,0 377,288,426,306,0 508,286,552,310,0
+dataset/cartoon_train/007626.jpg 449,206,543,360,0 165,249,289,408,0
+dataset/cartoon_train/007627.jpg 600,115,826,280,0 224,249,379,391,0
+dataset/cartoon_train/007628.jpg 539,107,615,162,0 550,264,630,334,0
+dataset/cartoon_train/007629.jpg 51,35,80,70,0
+dataset/cartoon_train/007630.jpg 387,112,642,454,0
+dataset/cartoon_train/007631.jpg 358,41,442,165,0 217,101,315,181,0 161,236,252,314,0 101,137,190,210,0
+dataset/cartoon_train/007632.jpg 124,123,243,267,0
+dataset/cartoon_train/007633.jpg 167,97,184,118,0 53,140,105,181,0 50,195,195,304,0
+dataset/cartoon_train/007634.jpg 270,138,388,342,0
+dataset/cartoon_train/007635.jpg 291,47,345,122,0 118,281,171,361,0 268,302,319,371,0 324,302,370,363,0 472,299,529,362,0
+dataset/cartoon_train/007636.jpg 243,156,330,245,0
+dataset/cartoon_train/007637.jpg 151,113,271,236,0
+dataset/cartoon_train/007638.jpg 135,92,194,152,0
+dataset/cartoon_train/007639.jpg 512,72,548,119,0
+dataset/cartoon_train/007640.jpg 416,201,433,217,0
+dataset/cartoon_train/007641.jpg 128,59,286,189,0
+dataset/cartoon_train/007642.jpg 701,302,721,326,0
+dataset/cartoon_train/007643.jpg 181,135,412,372,0
+dataset/cartoon_train/007644.jpg 171,132,439,453,0
+dataset/cartoon_train/007645.jpg 171,326,208,363,0
+dataset/cartoon_train/007646.jpg 202,160,280,217,0
+dataset/cartoon_train/007647.jpg 148,31,307,206,0
+dataset/cartoon_train/007648.jpg 265,2,635,326,0
+dataset/cartoon_train/007649.jpg 433,173,564,301,0
+dataset/cartoon_train/007650.jpg 25,194,118,281,0 312,244,412,352,0
+dataset/cartoon_train/007651.jpg 38,85,153,201,0
+dataset/cartoon_train/007652.jpg 161,229,340,422,0
+dataset/cartoon_train/007653.jpg 359,232,727,623,0
+dataset/cartoon_train/007654.jpg 348,75,501,365,0
+dataset/cartoon_train/007655.jpg 568,155,658,346,0 292,189,406,369,0
+dataset/cartoon_train/007656.jpg 68,166,142,236,0
+dataset/cartoon_train/007657.jpg 466,214,613,309,0
+dataset/cartoon_train/007658.jpg 268,213,360,287,0
+dataset/cartoon_train/007659.jpg 358,87,684,416,0
+dataset/cartoon_train/007660.jpg 144,108,491,338,0
+dataset/cartoon_train/007661.jpg 266,142,485,330,0 604,378,646,411,0
+dataset/cartoon_train/007662.jpg 407,191,488,279,0
+dataset/cartoon_train/007663.jpg 322,210,356,268,0
+dataset/cartoon_train/007664.jpg 505,148,645,276,0 392,227,471,299,0 78,198,260,356,0
+dataset/cartoon_train/007665.jpg 651,757,669,780,0 589,701,615,736,0 602,751,622,784,0 541,750,560,769,0 512,742,532,766,0 552,800,571,823,0 332,701,395,778,0 103,684,197,750,0 90,747,116,778,0
+dataset/cartoon_train/007666.jpg 355,80,416,151,0
+dataset/cartoon_train/007667.jpg 314,139,400,247,0 471,101,543,191,0 209,276,277,354,0 581,215,680,322,0
+dataset/cartoon_train/007668.jpg 598,223,668,305,0 245,152,319,235,0
+dataset/cartoon_train/007669.jpg 397,70,665,371,0
+dataset/cartoon_train/007670.jpg 215,144,342,258,0 492,71,607,177,0
+dataset/cartoon_train/007671.jpg 252,128,421,342,0
+dataset/cartoon_train/007672.jpg 317,265,455,395,0
+dataset/cartoon_train/007673.jpg 269,473,420,683,0 35,84,190,303,0 140,674,270,827,0 292,228,490,427,0
+dataset/cartoon_train/007674.jpg 312,86,376,157,0 294,123,354,185,0
+dataset/cartoon_train/007675.jpg 238,148,531,394,0
+dataset/cartoon_train/007676.jpg 234,135,451,360,0
+dataset/cartoon_train/007677.jpg 176,139,271,248,0 398,117,480,171,0
+dataset/cartoon_train/007678.jpg 280,147,409,265,0
+dataset/cartoon_train/007679.jpg 353,218,437,293,0 111,136,224,340,0
+dataset/cartoon_train/007680.jpg 492,131,695,290,0
+dataset/cartoon_train/007681.jpg 337,139,506,293,0
+dataset/cartoon_train/007682.jpg 500,377,521,401,0
+dataset/cartoon_train/007683.jpg 351,183,490,334,0
+dataset/cartoon_train/007684.jpg 91,58,125,93,0
+dataset/cartoon_train/007685.jpg 344,84,361,118,0 567,406,591,436,0
+dataset/cartoon_train/007686.jpg 450,323,495,444,0 152,289,209,425,0
+dataset/cartoon_train/007687.jpg 510,92,621,218,0
+dataset/cartoon_train/007688.jpg 313,96,341,121,0 99,124,164,184,0 253,200,308,247,0 344,197,412,255,0 453,193,504,245,0 151,216,208,266,0
+dataset/cartoon_train/007689.jpg 291,159,310,180,0
+dataset/cartoon_train/007690.jpg 242,77,274,107,0 249,120,270,140,0
+dataset/cartoon_train/007691.jpg 22,279,144,456,0 129,157,242,268,0 411,113,634,255,0
+dataset/cartoon_train/007692.jpg 495,133,677,305,0 169,169,352,325,0
+dataset/cartoon_train/007693.jpg 14,132,178,254,0 164,335,213,369,0
+dataset/cartoon_train/007694.jpg 401,144,429,172,0
+dataset/cartoon_train/007695.jpg 164,29,231,93,0
+dataset/cartoon_train/007696.jpg 189,189,350,346,0 514,6,639,271,0
+dataset/cartoon_train/007697.jpg 611,73,879,432,0
+dataset/cartoon_train/007698.jpg 37,79,121,157,0
+dataset/cartoon_train/007699.jpg 358,152,397,268,0
+dataset/cartoon_train/007700.jpg 532,207,552,226,0
+dataset/cartoon_train/007701.jpg 383,204,523,335,0
+dataset/cartoon_train/007702.jpg 282,254,331,309,0
+dataset/cartoon_train/007703.jpg 352,90,763,467,0
+dataset/cartoon_train/007704.jpg 68,82,402,430,0
+dataset/cartoon_train/007705.jpg 67,70,153,166,0
+dataset/cartoon_train/007706.jpg 296,100,386,234,0
+dataset/cartoon_train/007707.jpg 362,224,430,288,0 366,152,402,192,0 253,136,330,202,0 277,264,342,312,0 237,242,279,292,0
+dataset/cartoon_train/007708.jpg 407,320,474,411,0 124,114,191,199,0 12,116,93,198,0
+dataset/cartoon_train/007709.jpg 478,178,534,241,0 316,258,464,376,0
+dataset/cartoon_train/007710.jpg 219,85,483,400,0
+dataset/cartoon_train/007711.jpg 467,129,605,285,0
+dataset/cartoon_train/007712.jpg 277,161,301,201,0 182,134,221,166,0 78,225,137,291,0
+dataset/cartoon_train/007713.jpg 309,218,430,338,0
+dataset/cartoon_train/007714.jpg 243,115,293,191,0
+dataset/cartoon_train/007715.jpg 149,109,444,390,0
+dataset/cartoon_train/007716.jpg 365,170,499,283,0 159,126,271,242,0
+dataset/cartoon_train/007717.jpg 327,118,395,192,0 363,56,405,95,0
+dataset/cartoon_train/007718.jpg 264,10,635,370,0
+dataset/cartoon_train/007719.jpg 107,294,221,370,0 2,198,64,300,0 301,194,394,290,0 459,211,510,275,0
+dataset/cartoon_train/007720.jpg 14,149,39,175,0
+dataset/cartoon_train/007721.jpg 247,217,278,255,0
+dataset/cartoon_train/007722.jpg 267,44,573,441,0
+dataset/cartoon_train/007723.jpg 883,745,974,858,0 755,883,847,966,0 59,1215,286,1380,0 127,575,501,954,0
+dataset/cartoon_train/007724.jpg 292,99,356,172,0 513,143,545,207,0
+dataset/cartoon_train/007725.jpg 485,315,582,422,0
+dataset/cartoon_train/007726.jpg 240,79,406,278,0
+dataset/cartoon_train/007727.jpg 214,74,413,259,0
+dataset/cartoon_train/007728.jpg 216,11,425,441,0
+dataset/cartoon_train/007729.jpg 160,64,682,501,0
+dataset/cartoon_train/007730.jpg 247,111,347,196,0 115,98,203,201,0
+dataset/cartoon_train/007731.jpg 229,104,296,178,0
+dataset/cartoon_train/007732.jpg 234,119,268,179,0 526,226,566,276,0
+dataset/cartoon_train/007733.jpg 69,122,255,327,0 347,178,538,387,0
+dataset/cartoon_train/007734.jpg 399,73,832,504,0
+dataset/cartoon_train/007735.jpg 284,141,452,346,0
+dataset/cartoon_train/007736.jpg 537,301,596,351,0 397,310,435,344,0 36,327,79,365,0 458,320,496,355,0 314,324,340,364,0
+dataset/cartoon_train/007737.jpg 247,146,598,357,0
+dataset/cartoon_train/007738.jpg 161,114,373,317,0
+dataset/cartoon_train/007739.jpg 375,157,603,380,0
+dataset/cartoon_train/007740.jpg 577,114,621,175,0
+dataset/cartoon_train/007741.jpg 228,55,285,95,0
+dataset/cartoon_train/007742.jpg 387,121,419,163,0
+dataset/cartoon_train/007743.jpg 416,138,569,305,0
+dataset/cartoon_train/007744.jpg 213,200,438,338,0
+dataset/cartoon_train/007745.jpg 395,109,455,174,0
+dataset/cartoon_train/007746.jpg 469,177,592,293,0 242,86,390,249,0 3,299,39,377,0 19,451,72,515,0 92,346,151,436,0
+dataset/cartoon_train/007747.jpg 298,72,396,216,0
+dataset/cartoon_train/007748.jpg 411,94,634,320,0
+dataset/cartoon_train/007749.jpg 549,89,603,148,0
+dataset/cartoon_train/007750.jpg 342,277,464,366,0 71,178,175,267,0 676,161,764,268,0
+dataset/cartoon_train/007751.jpg 318,72,409,164,0 77,61,238,157,0
+dataset/cartoon_train/007752.jpg 137,25,539,502,0
+dataset/cartoon_train/007753.jpg 60,161,182,254,0 237,192,262,244,0 177,384,226,425,0 370,455,418,493,0
+dataset/cartoon_train/007754.jpg 298,127,389,262,0
+dataset/cartoon_train/007755.jpg 162,146,186,172,0 239,160,257,178,0 246,210,269,243,0
+dataset/cartoon_train/007756.jpg 111,22,146,53,0 27,113,79,174,0
+dataset/cartoon_train/007757.jpg 279,181,463,366,0
+dataset/cartoon_train/007758.jpg 383,34,405,63,0 383,69,406,94,0 383,101,401,125,0 127,256,151,284,0 92,251,119,279,0 50,256,77,281,0
+dataset/cartoon_train/007759.jpg 445,60,527,127,0 341,321,513,462,0
+dataset/cartoon_train/007760.jpg 302,230,451,375,0
+dataset/cartoon_train/007761.jpg 275,38,465,428,0
+dataset/cartoon_train/007762.jpg 57,71,109,119,0 99,54,150,108,0 144,31,203,87,0
+dataset/cartoon_train/007763.jpg 256,147,293,192,0
+dataset/cartoon_train/007764.jpg 309,94,335,128,0
+dataset/cartoon_train/007765.jpg 322,100,471,256,0
+dataset/cartoon_train/007766.jpg 223,97,345,232,0 74,187,182,297,0
+dataset/cartoon_train/007767.jpg 265,270,296,307,0 326,63,346,93,0 324,118,349,144,0 326,166,348,190,0
+dataset/cartoon_train/007768.jpg 261,105,363,234,0
+dataset/cartoon_train/007769.jpg 303,67,420,232,0
+dataset/cartoon_train/007770.jpg 170,58,200,80,0 285,147,328,191,0
+dataset/cartoon_train/007771.jpg 1,3,534,504,0
+dataset/cartoon_train/007772.jpg 285,11,612,413,0
+dataset/cartoon_train/007773.jpg 385,119,419,152,0 526,178,548,210,0
+dataset/cartoon_train/007774.jpg 375,70,507,252,0
+dataset/cartoon_train/007775.jpg 241,321,345,435,0
+dataset/cartoon_train/007776.jpg 533,282,621,365,0 328,106,410,197,0 448,504,525,582,0 150,298,246,382,0 155,468,234,571,0
+dataset/cartoon_train/007777.jpg 183,151,258,216,0 120,566,202,635,0
+dataset/cartoon_train/007778.jpg 153,233,292,395,0 379,103,559,306,0
+dataset/cartoon_train/007779.jpg 334,122,529,326,0
+dataset/cartoon_train/007780.jpg 74,77,96,101,0
+dataset/cartoon_train/007781.jpg 196,194,276,288,0
+dataset/cartoon_train/007782.jpg 383,193,572,327,0
+dataset/cartoon_train/007783.jpg 376,301,477,416,0 351,4,736,446,0 1,1,353,479,0
+dataset/cartoon_train/007784.jpg 685,255,723,301,0 489,183,544,240,0 236,73,300,168,0
+dataset/cartoon_train/007785.jpg 628,196,702,263,0 240,204,309,291,0 111,263,161,300,0 437,242,501,284,0 401,164,541,259,0
+dataset/cartoon_train/007786.jpg 146,323,194,369,0
+dataset/cartoon_train/007787.jpg 354,219,459,334,0
+dataset/cartoon_train/007788.jpg 304,108,485,326,0
+dataset/cartoon_train/007789.jpg 124,206,149,235,0
+dataset/cartoon_train/007790.jpg 424,349,464,392,0 281,166,297,205,0
+dataset/cartoon_train/007791.jpg 148,50,180,89,0 97,59,117,88,0 51,58,85,88,0 4,63,37,95,0
+dataset/cartoon_train/007792.jpg 513,292,620,397,0 484,159,526,197,0
+dataset/cartoon_train/007793.jpg 346,586,381,627,0
+dataset/cartoon_train/007794.jpg 240,130,410,499,0 130,139,169,172,0 75,132,119,174,0 45,138,77,183,0
+dataset/cartoon_train/007795.jpg 109,120,259,249,0
+dataset/cartoon_train/007796.jpg 82,214,124,305,0 324,151,375,197,0
+dataset/cartoon_train/007797.jpg 502,211,621,302,0
+dataset/cartoon_train/007798.jpg 493,301,740,608,0
+dataset/cartoon_train/007799.jpg 164,234,202,272,0 215,271,254,307,0 274,235,313,270,0 346,276,383,310,0 397,239,435,271,0 558,376,587,400,0 591,382,618,400,0
+dataset/cartoon_train/007800.jpg 395,88,434,136,0 482,282,513,327,0
+dataset/cartoon_train/007801.jpg 347,160,479,382,0
+dataset/cartoon_train/007802.jpg 398,183,415,206,0
+dataset/cartoon_train/007803.jpg 342,206,390,261,0
+dataset/cartoon_train/007804.jpg 63,46,769,467,0
+dataset/cartoon_train/007805.jpg 585,107,652,232,0
+dataset/cartoon_train/007806.jpg 279,106,682,366,0
+dataset/cartoon_train/007807.jpg 126,66,255,242,0 33,219,175,385,0
+dataset/cartoon_train/007808.jpg 256,177,421,310,0
+dataset/cartoon_train/007809.jpg 258,113,414,271,0
+dataset/cartoon_train/007810.jpg 165,98,372,378,0
+dataset/cartoon_train/007811.jpg 160,168,298,321,0 675,70,712,122,0
+dataset/cartoon_train/007812.jpg 114,152,504,385,0
+dataset/cartoon_train/007813.jpg 293,106,726,486,0
+dataset/cartoon_train/007814.jpg 298,144,347,196,0
+dataset/cartoon_train/007815.jpg 136,64,663,502,0
+dataset/cartoon_train/007816.jpg 322,89,532,313,0
+dataset/cartoon_train/007817.jpg 511,176,615,351,0 206,190,400,337,0
+dataset/cartoon_train/007818.jpg 330,107,466,251,0
+dataset/cartoon_train/007819.jpg 432,174,589,350,0 283,182,416,313,0 28,121,229,341,0
+dataset/cartoon_train/007820.jpg 230,137,346,281,0
+dataset/cartoon_train/007821.jpg 331,81,649,318,0
+dataset/cartoon_train/007822.jpg 308,159,466,327,0
+dataset/cartoon_train/007823.jpg 166,233,299,333,0
+dataset/cartoon_train/007824.jpg 308,117,502,235,0
+dataset/cartoon_train/007825.jpg 646,570,769,681,0 439,496,577,614,0 210,136,600,488,0 2,288,103,439,0 115,619,245,736,0 1,600,84,719,0 111,345,249,516,0
+dataset/cartoon_train/007826.jpg 492,341,579,456,0
+dataset/cartoon_train/007827.jpg 451,77,578,222,0 287,354,340,439,0
+dataset/cartoon_train/007828.jpg 357,56,558,365,0
+dataset/cartoon_train/007829.jpg 221,94,483,361,0
+dataset/cartoon_train/007830.jpg 361,19,561,274,0
+dataset/cartoon_train/007831.jpg 96,65,182,182,0
+dataset/cartoon_train/007832.jpg 408,94,655,379,0
+dataset/cartoon_train/007833.jpg 276,195,348,294,0
+dataset/cartoon_train/007834.jpg 115,246,198,309,0
+dataset/cartoon_train/007835.jpg 126,4,664,457,0
+dataset/cartoon_train/007836.jpg 298,112,402,295,0 181,232,241,300,0
+dataset/cartoon_train/007837.jpg 263,127,341,205,0
+dataset/cartoon_train/007838.jpg 106,103,244,263,0 366,155,523,331,0
+dataset/cartoon_train/007839.jpg 308,285,395,356,0 613,233,648,267,0
+dataset/cartoon_train/007840.jpg 286,129,366,197,0 631,132,701,197,0
+dataset/cartoon_train/007841.jpg 726,227,746,244,0
+dataset/cartoon_train/007842.jpg 141,411,161,432,0 234,426,252,444,0
+dataset/cartoon_train/007843.jpg 450,232,468,257,0 402,149,614,317,0
+dataset/cartoon_train/007844.jpg 33,41,290,322,0
+dataset/cartoon_train/007845.jpg 434,189,569,273,0
+dataset/cartoon_train/007846.jpg 317,60,380,117,0
+dataset/cartoon_train/007847.jpg 260,71,521,281,0
+dataset/cartoon_train/007848.jpg 237,170,412,336,0
+dataset/cartoon_train/007849.jpg 144,46,176,93,0
+dataset/cartoon_train/007850.jpg 370,332,403,366,0 322,162,349,239,0
+dataset/cartoon_train/007851.jpg 123,379,363,510,0
+dataset/cartoon_train/007852.jpg 258,101,640,435,0
+dataset/cartoon_train/007853.jpg 324,154,415,248,0 73,120,201,271,0
+dataset/cartoon_train/007854.jpg 191,171,391,383,0
+dataset/cartoon_train/007855.jpg 307,135,328,159,0
+dataset/cartoon_train/007856.jpg 1020,260,1334,659,0 364,404,649,702,0
+dataset/cartoon_train/007857.jpg 252,149,497,346,0
+dataset/cartoon_train/007858.jpg 327,74,521,367,0 168,136,230,206,0
+dataset/cartoon_train/007859.jpg 250,97,552,497,0
+dataset/cartoon_train/007860.jpg 191,75,299,193,0
+dataset/cartoon_train/007861.jpg 521,337,548,382,0
+dataset/cartoon_train/007862.jpg 185,69,373,198,0
+dataset/cartoon_train/007863.jpg 192,107,347,342,0
+dataset/cartoon_train/007864.jpg 451,116,651,253,0
+dataset/cartoon_train/007865.jpg 1020,244,1134,378,0 860,166,984,303,0
+dataset/cartoon_train/007866.jpg 164,76,477,342,0
+dataset/cartoon_train/007867.jpg 237,1,429,246,0
+dataset/cartoon_train/007868.jpg 2,2,826,477,0
+dataset/cartoon_train/007869.jpg 593,250,645,282,0
+dataset/cartoon_train/007870.jpg 263,66,406,299,0 143,98,174,142,0 116,186,139,219,0 385,239,556,382,0
+dataset/cartoon_train/007871.jpg 308,290,348,338,0
+dataset/cartoon_train/007872.jpg 93,53,130,90,0
+dataset/cartoon_train/007873.jpg 604,14,776,277,0
+dataset/cartoon_train/007874.jpg 378,142,553,272,0 114,269,246,379,0
+dataset/cartoon_train/007875.jpg 207,132,326,335,0 757,371,831,433,0 637,365,704,434,0 518,366,585,433,0 399,370,472,431,0
+dataset/cartoon_train/007876.jpg 15,313,41,341,0
+dataset/cartoon_train/007877.jpg 248,58,326,167,0
+dataset/cartoon_train/007878.jpg 186,179,385,367,0
+dataset/cartoon_train/007879.jpg 189,234,334,379,0 473,67,615,262,0
+dataset/cartoon_train/007880.jpg 560,221,594,243,0 493,149,519,166,0
+dataset/cartoon_train/007881.jpg 443,235,491,276,0 427,130,457,173,0
+dataset/cartoon_train/007882.jpg 105,130,216,255,0
+dataset/cartoon_train/007883.jpg 436,2,535,138,0
+dataset/cartoon_train/007884.jpg 284,18,588,427,0
+dataset/cartoon_train/007885.jpg 205,124,734,494,0
+dataset/cartoon_train/007886.jpg 405,174,493,294,0
+dataset/cartoon_train/007887.jpg 222,139,387,333,0
+dataset/cartoon_train/007888.jpg 148,114,181,137,0 333,125,367,155,0 416,120,455,148,0
+dataset/cartoon_train/007889.jpg 277,164,417,306,0
+dataset/cartoon_train/007890.jpg 109,212,191,281,0 193,250,261,296,0
+dataset/cartoon_train/007891.jpg 302,8,573,246,0
+dataset/cartoon_train/007892.jpg 319,129,386,162,0 489,284,546,313,0
+dataset/cartoon_train/007893.jpg 509,380,631,464,0
+dataset/cartoon_train/007894.jpg 351,88,511,476,0
+dataset/cartoon_train/007895.jpg 677,375,730,414,0 567,329,610,368,0 445,397,485,428,0 315,364,355,396,0 199,380,239,408,0 67,334,104,363,0
+dataset/cartoon_train/007896.jpg 324,225,370,270,0
+dataset/cartoon_train/007897.jpg 540,91,718,279,0 227,154,349,353,0
+dataset/cartoon_train/007898.jpg 356,134,436,215,0
+dataset/cartoon_train/007899.jpg 93,174,263,351,0
+dataset/cartoon_train/007900.jpg 193,216,278,299,0
+dataset/cartoon_train/007901.jpg 238,84,362,230,0 501,46,560,164,0
+dataset/cartoon_train/007902.jpg 74,63,197,206,0
+dataset/cartoon_train/007903.jpg 141,230,202,286,0 520,231,577,292,0 42,147,86,172,0
+dataset/cartoon_train/007904.jpg 209,4,737,428,0
+dataset/cartoon_train/007905.jpg 292,90,391,171,0
+dataset/cartoon_train/007906.jpg 300,108,559,369,0
+dataset/cartoon_train/007907.jpg 273,66,345,130,0
+dataset/cartoon_train/007908.jpg 186,84,240,142,0
+dataset/cartoon_train/007909.jpg 209,37,276,61,0
+dataset/cartoon_train/007910.jpg 410,63,461,103,0
+dataset/cartoon_train/007911.jpg 251,84,324,280,0 671,203,701,261,0 632,181,683,231,0
+dataset/cartoon_train/007912.jpg 195,81,540,430,0
+dataset/cartoon_train/007913.jpg 391,137,429,185,0 458,186,524,247,0
+dataset/cartoon_train/007914.jpg 345,245,412,319,0
+dataset/cartoon_train/007915.jpg 483,129,667,278,0 178,339,315,459,0
+dataset/cartoon_train/007916.jpg 105,62,310,180,0 134,205,282,301,0
+dataset/cartoon_train/007917.jpg 349,66,521,303,0
+dataset/cartoon_train/007918.jpg 3,210,121,341,0 268,324,389,419,0 506,249,621,337,0
+dataset/cartoon_train/007919.jpg 411,151,517,216,0 587,80,702,212,0 6,71,56,270,0
+dataset/cartoon_train/007920.jpg 549,291,766,457,0 507,14,768,224,0 112,0,366,201,0 21,281,379,471,0
+dataset/cartoon_train/007921.jpg 318,307,414,395,0 591,332,679,400,0 119,308,206,385,0 580,105,668,177,0 365,118,448,186,0 110,82,197,156,0
+dataset/cartoon_train/007922.jpg 435,20,842,476,0
+dataset/cartoon_train/007923.jpg 275,77,580,432,0
+dataset/cartoon_train/007924.jpg 190,304,225,345,0 295,274,330,329,0 502,290,540,343,0 559,332,594,374,0 620,308,661,365,0
+dataset/cartoon_train/007925.jpg 216,121,247,161,0 173,95,216,141,0 106,76,160,134,0 47,98,100,149,0 11,124,44,156,0
+dataset/cartoon_train/007926.jpg 1,55,162,213,0 236,83,263,114,0
+dataset/cartoon_train/007927.jpg 275,89,356,189,0 60,260,170,342,0 449,260,577,344,0
+dataset/cartoon_train/007928.jpg 182,156,292,259,0 203,272,274,343,0
+dataset/cartoon_train/007929.jpg 491,49,535,109,0 315,87,366,140,0
+dataset/cartoon_train/007930.jpg 246,14,746,474,0
+dataset/cartoon_train/007931.jpg 601,202,682,312,0 124,221,237,335,0
+dataset/cartoon_train/007932.jpg 171,37,674,500,0
+dataset/cartoon_train/007933.jpg 337,140,427,225,0 131,141,231,236,0
+dataset/cartoon_train/007934.jpg 369,196,444,273,0
+dataset/cartoon_train/007935.jpg 452,164,491,204,0 32,144,71,183,0 115,365,158,423,0 25,63,59,105,0 270,266,306,301,0 481,325,532,387,0 208,248,236,277,0 548,66,585,101,0 276,363,321,403,0 454,423,498,463,0 103,54,137,86,0 231,62,265,105,0 321,69,348,109,0 450,61,490,94,0 603,71,626,101,0 511,75,539,102,0 396,109,429,140,0 578,167,620,202,0 525,230,561,261,0 408,217,440,250,0 316,162,352,196,0 233,154,265,187,0 128,143,170,185,0 51,235,90,267,0 126,266,168,296,0 40,339,63,382,0 211,336,253,371,0 393,304,437,343,0 581,304,618,338,0 551,416,587,456,0 377,407,412,447,0 114,444,144,480,0 259,479,293,497,0
+dataset/cartoon_train/007936.jpg 321,74,365,146,0 128,29,191,136,0
+dataset/cartoon_train/007937.jpg 61,190,304,398,0
+dataset/cartoon_train/007938.jpg 220,67,463,367,0 454,57,624,276,0
+dataset/cartoon_train/007939.jpg 489,149,576,229,0 241,245,311,313,0
+dataset/cartoon_train/007940.jpg 395,99,462,173,0
+dataset/cartoon_train/007941.jpg 268,57,701,503,0
+dataset/cartoon_train/007942.jpg 161,56,281,214,0
+dataset/cartoon_train/007943.jpg 269,111,524,393,0
+dataset/cartoon_train/007944.jpg 2,1,522,475,0
+dataset/cartoon_train/007945.jpg 370,157,548,259,0 232,166,282,251,0
+dataset/cartoon_train/007946.jpg 304,122,401,203,0 197,212,272,296,0
+dataset/cartoon_train/007947.jpg 511,355,614,468,0 459,134,539,244,0
+dataset/cartoon_train/007948.jpg 245,141,490,345,0
+dataset/cartoon_train/007949.jpg 313,66,434,241,0
+dataset/cartoon_train/007950.jpg 94,94,190,200,0
+dataset/cartoon_train/007951.jpg 316,177,419,312,0 113,118,242,259,0 288,559,409,646,0 49,579,75,610,0 447,547,471,573,0 423,546,448,578,0
+dataset/cartoon_train/007952.jpg 186,62,404,265,0
+dataset/cartoon_train/007953.jpg 363,128,500,265,0
+dataset/cartoon_train/007954.jpg 663,192,845,382,0
+dataset/cartoon_train/007955.jpg 1,73,300,438,0
+dataset/cartoon_train/007956.jpg 310,119,526,324,0
+dataset/cartoon_train/007957.jpg 207,109,245,160,0
+dataset/cartoon_train/007958.jpg 323,132,395,281,0
+dataset/cartoon_train/007959.jpg 120,81,241,203,0
+dataset/cartoon_train/007960.jpg 357,167,378,193,0
+dataset/cartoon_train/007961.jpg 269,183,402,304,0
+dataset/cartoon_train/007962.jpg 404,133,480,219,0
+dataset/cartoon_train/007963.jpg 589,244,725,383,0 138,142,272,295,0
+dataset/cartoon_train/007964.jpg 326,77,482,271,0
+dataset/cartoon_train/007965.jpg 460,31,703,423,0 28,82,442,464,0
+dataset/cartoon_train/007966.jpg 261,127,289,143,0 214,155,341,248,0 393,160,533,255,0
+dataset/cartoon_train/007967.jpg 635,6,668,70,0
+dataset/cartoon_train/007968.jpg 276,93,315,117,0 129,113,241,202,0 164,231,209,280,0
+dataset/cartoon_train/007969.jpg 502,244,531,275,0 377,238,405,288,0 449,237,473,273,0
+dataset/cartoon_train/007970.jpg 352,128,570,307,0
+dataset/cartoon_train/007971.jpg 284,194,329,237,0
+dataset/cartoon_train/007972.jpg 448,136,570,263,0
+dataset/cartoon_train/007973.jpg 297,154,553,434,0
+dataset/cartoon_train/007974.jpg 202,132,363,246,0
+dataset/cartoon_train/007975.jpg 686,145,741,184,0 596,353,662,393,0
+dataset/cartoon_train/007976.jpg 106,173,178,273,0 484,189,550,273,0
+dataset/cartoon_train/007977.jpg 414,232,458,269,0 371,219,409,248,0
+dataset/cartoon_train/007978.jpg 377,120,608,402,0
+dataset/cartoon_train/007979.jpg 276,170,392,288,0 479,86,561,172,0 87,77,169,154,0
+dataset/cartoon_train/007980.jpg 286,80,493,278,0
+dataset/cartoon_train/007981.jpg 391,119,438,178,0
+dataset/cartoon_train/007982.jpg 452,303,516,370,0 256,202,355,296,0 115,220,230,288,0
+dataset/cartoon_train/007983.jpg 583,101,784,366,0 95,236,361,470,0
+dataset/cartoon_train/007984.jpg 379,144,560,385,0
+dataset/cartoon_train/007985.jpg 381,159,425,221,0 348,135,397,190,0
+dataset/cartoon_train/007986.jpg 441,193,512,280,0 524,229,554,255,0 349,280,434,372,0
+dataset/cartoon_train/007987.jpg 254,119,399,219,0
+dataset/cartoon_train/007988.jpg 379,162,488,250,0
+dataset/cartoon_train/007989.jpg 256,176,318,241,0 228,155,254,177,0 371,314,394,340,0 219,318,295,370,0 452,451,492,488,0 108,329,128,354,0
+dataset/cartoon_train/007990.jpg 236,198,258,217,0
+dataset/cartoon_train/007991.jpg 188,506,306,627,0 66,83,160,216,0
+dataset/cartoon_train/007992.jpg 533,197,645,308,0 206,228,313,346,0
+dataset/cartoon_train/007993.jpg 385,68,478,138,0
+dataset/cartoon_train/007994.jpg 129,139,399,357,0
+dataset/cartoon_train/007995.jpg 160,62,323,214,0 326,146,355,177,0
+dataset/cartoon_train/007996.jpg 248,156,454,313,0
+dataset/cartoon_train/007997.jpg 296,65,540,282,0
+dataset/cartoon_train/007998.jpg 363,99,474,313,0 183,195,203,221,0 149,195,171,226,0 61,122,115,194,0
+dataset/cartoon_train/007999.jpg 379,145,524,320,0 169,132,195,183,0 245,159,269,195,0
+dataset/cartoon_train/008000.jpg 184,168,232,228,0

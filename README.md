@@ -1,6 +1,7 @@
 # YOLO-V3
 - 借鉴自网络：https://blog.csdn.net/demm868/article/details/103052307?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-9
 ## 数据集的准备
+- 将train数据集与test数据集分别命名为cartoon_train和cartoon_test放在dataset文件夹下
 - 运行data_prepare.py将数据集划为训练集，验证集，并满足输入格式
 ## 训练模型
 - 加载权重，将权重h5文件放入models文件夹
